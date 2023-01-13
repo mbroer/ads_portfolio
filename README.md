@@ -81,15 +81,15 @@ Output gegenereerde gebruiker<br>
     Gesorteerd op favorite descending ~8000 rows
   </details>
 
-<h2>FoodBoost Ingredient Translate</h2>
-<h2>FoodBoost Description Scraper</h2>
 <h2>FoodBoost CSV naar Json</h2>
-  
   
 </details>
 
 <details>
   <summary><b>Data collection</b></summary>
+  
+<h2>FoodBoost Ingredient Translate</h2>
+<h2>FoodBoost Description Scraper</h2>
   
 </details>
 

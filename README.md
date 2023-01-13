@@ -105,7 +105,7 @@ Output gegenereerde gebruiker<br>
 <details>
   <summary><h3>Data collection</h3></summary>
   
-<h3>FoodBoost Ingredient Translate</h3>
+<h3>FoodBoost Ingredient Groepern</h3>
 <h3>FoodBoost Description Scraper</h3>
 Voor de applicatie van het FoodBoost project wilde ik de beschrijving van het gerecht tonen omdat het naar mijn mening een cruciaal is voor een gebruiker om een beter idee te krijgen of hij een gerecht wel of niet lekker gaat vinden, en omdat het de applicatie visueel leuker maakt.
 %%%image

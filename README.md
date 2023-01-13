@@ -72,6 +72,13 @@ Ik ben begonnen met het opschonen van de bestaande dataframes, te zien in [ads_c
 Hierna heb ik utility functies geschreven om makkelijk informatie uit die dataframes te kunnen halen. Denk hierbij het omzetten van een dataframe row in een object, of een functie om alle informatie van een recept op te halen via een ID. Ook een zoek algoritme om makkelijk informatie op te kunnen halen
 
   %%%plaatjes ofzo
+  
+  <details>
+    <summary><i>Code, bestanden, resultaten</i></summary>
+    
+![Gegenereerde user](https://github.com/mbroer/ads_portfolio/blob/main/output/foodboost/user_gen.png)    
+    Gesorteerd op favorite descending ~8000 rows
+  </details>
 
 <h2>FoodBoost ingredient translate</h2>
 <h2>FoodBoost description scraper</h2>

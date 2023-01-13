@@ -82,6 +82,17 @@ Output gegenereerde gebruiker<br>
   </details>
 
 <h2>FoodBoost CSV naar Json</h2>
+  <h3>Beschrijving</h3>
+  Voor het FoodBoost project moest ik voor mijn applicatie een csv bestand omzetten naar json, dit was gelukkig vrij simpel en kon met een file reader simpel mijn csv omzetten zodat ik een json bestand in kon laden en dan via het ID van het recept, de beschrijving van dat recept kon ophalen.
+  
+  <details>
+    <summary><i>Code, bestanden, resultaten</i></summary>
+    
+    %%%link naar notebook
+    %%%img resultaat
+    
+  </details>
+  
   
 </details>
 

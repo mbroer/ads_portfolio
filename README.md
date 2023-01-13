@@ -56,6 +56,7 @@ Hierdoor was het vooral voor de groep (die toen nog niet veel ervaring had met h
     
   [Notebook](https://github.com/mbroer/ads_portfolio/blob/main/notebooks/foodboost/join_all_csv.ipynb)<br><br>
   [CSV bestand](https://github.com/mbroer/ads_portfolio/blob/main/output/foodboost/food_merge_all.csv)
+Screenshot resultaat:
   ![Screenshot Resultaat](https://github.com/mbroer/ads_portfolio/blob/main/output/foodboost/merged.png)
   
     

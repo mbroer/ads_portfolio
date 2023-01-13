@@ -54,7 +54,7 @@ Hierdoor was het vooral voor de groep (die toen nog niet veel ervaring had met h
   <details>
     <summary><i>Code, bestanden, resultaten</i></summary>
     
-  [Notebook](https://github.com/mbroer/ads_portfolio/blob/main/notebooks/foodboost/join_all_csv.ipynb)<br>
+  [Notebook](https://github.com/mbroer/ads_portfolio/blob/main/notebooks/foodboost/join_all_csv.ipynb)<br><br>
   [CSV bestand resultaat](https://github.com/mbroer/ads_portfolio/blob/main/output/foodboost/food_merge_all.csv)
   ![Screenshot Resultaat](https://github.com/mbroer/ads_portfolio/blob/main/output/foodboost/merged.png)
   

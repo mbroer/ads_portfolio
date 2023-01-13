@@ -9,7 +9,7 @@
 <details>
   <summary><b>Scrum tickets</b></summary>
   
-  
+  <br>
   <details>
     <summary>Tickets week 1 tm 5</summary>
     
@@ -17,7 +17,7 @@
     
   </details>
   
-  
+  <br>
   <details>
     <summary><b>Tickets week 6 tm 10</b></summary>
     
@@ -25,7 +25,7 @@
     
   </details>
   
-  
+  <br>
   <details>
     <summary><b>Tickets week 11 tm 16</b></summary>
     

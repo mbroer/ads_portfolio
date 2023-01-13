@@ -76,7 +76,7 @@ Hierna heb ik utility functies geschreven om makkelijk informatie uit die datafr
   <details>
     <summary><i>Code, bestanden, resultaten</i></summary>
     
-Output gegenereerde gebruiker
+Output gegenereerde gebruiker<br>
 ![Gegenereerde user](https://github.com/mbroer/ads_portfolio/blob/main/output/foodboost/user_gen.png)    
     Gesorteerd op favorite descending ~8000 rows
   </details>

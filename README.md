@@ -36,7 +36,7 @@
     
   </details>
   <br>
-  </hr>
+------
 
   
 </details>

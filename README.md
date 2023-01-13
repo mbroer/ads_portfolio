@@ -10,7 +10,7 @@
 </details>
 
 <details>
-  <summary><b>Scrum tickets</b></summary>
+  <summary><h3>Scrum tickets</h3></summary>
   Hieronder staan alle scrum tickets op mijn naam die ik heb afgerond. Bij de meeste tickets heb ik een beschrijving van een paar zinnen zodat andere projectleden een beter inzicht kregen van waar ik mee bezig was. Onze projectgroep heeft gebruik gemaakt van de scrumtool Trello.</br></br>
   
   <details>

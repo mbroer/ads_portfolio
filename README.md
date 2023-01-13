@@ -44,6 +44,28 @@ ___
 <details>
   <summary><b>Data prep</b></summary>
   
+<h2>FoodBoost csv merge</h2>
+
+
+  <details>
+    <summary><i>Resultaten</i></summary>
+    
+  [Notebook](https://github.com/mbroer/ads_portfolio/blob/main/notebooks/foodboost/join_all_csv.ipynb)
+  [Resultaat](https://github.com/mbroer/ads_portfolio/blob/main/output/foodboost/food_merge_all.csv)
+  ![Resultaat](https://github.com/mbroer/ads_portfolio/blob/main/output/foodboost/merged.png)
+  
+    
+    
+    
+  </details>
+
+
+
+<h2>FoodBoost ingredient translate</h2>
+<h2>FoodBoost description scraper</h2>
+  
+  
+  
 </details>
 
 <details>

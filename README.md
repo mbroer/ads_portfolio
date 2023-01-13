@@ -99,13 +99,7 @@ Output gegenereerde gebruiker<br>
     
   </details>
   
-  
-</details>
-
-<details>
-  <summary><h3>Data collection</h3></summary>
-  
-<h3>FoodBoost Ingredient Groepern</h3>
+  <h3>FoodBoost Ingredient Groeperen</h3>
   <h4>Beschrijving</h4>
   Tijdens het foodboost project kwamen we erachter dat het model veel moeite had om voorspellingen te maken, een gebruiker die veel recepten met tomaat lekker vond, zou een lage score geven aan een recept waar ook tomaat in zit, maar dan met een andere naam. Een voorbeeld hiervan is een user met favoriete recepten zoals: tomatensalade, tomatensoep, plakken tomaat en komkommer, en dan een voorspelling op bijvoorbeeld het gerecht gesneden tomaat. Hier gaf het model aan dat de gebruiker gesneden tomaat niet lekker zou vinden. Na discussie gingen wij ervan uit als projectgroep dat het model de correlatie tussen tomaten en tomaat niet kon vinden.
 
@@ -113,7 +107,15 @@ Een oplossing die we hadden verzonnen is om te proberen zoveel mogelijk ingredie
 
 Ik heb hier geprobeerd een groepeer script voor te maken die automatisch ingredieënten groepeerd in categorieën.
   
-%%%translate, stopwords, verkleinwoorden, simularity score, etc
+%%%translate (link naar data collection), stopwords, verkleinwoorden, simularity score, etc
+  
+  
+</details>
+
+<details>
+  <summary><h3>Data collection</h3></summary>
+  
+
   
   
   

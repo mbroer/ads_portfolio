@@ -1,4 +1,5 @@
-# Portfolio
+<h1>Portfolio<h1>
+  
 <details>
   <summary><b>Datacamp courses</b></summary>
   Hieronder heb ik een screenshot toegevoegt van alle datacamp courses die ik tijdens de minor heb gemaakt, de course van 2 Oct was later ingeleverd vanwege persoonlijke omstandigheden, voor de rest is alles op tijd gemaakt.

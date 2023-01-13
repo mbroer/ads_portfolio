@@ -107,6 +107,13 @@ Output gegenereerde gebruiker<br>
   
 <h4>FoodBoost Ingredient Translate</h4>
 <h4>FoodBoost Description Scraper</h4>
+Voor de applicatie van het FoodBoost project wilde ik de beschrijving van het gerecht tonen omdat het naar mijn mening een cruciaal is voor een gebruiker om een beter idee te krijgen of hij een gerecht wel of niet lekker gaat vinden, en omdat het de applicatie visueel leuker maakt.
+%%%image
+  
+Deze beschrijvingen stonden niet in de originele databestanden van recepten, maar gelukkig wel een url van waar deze recepten zijn gehaald. Op de meeste pagina’s van deze recepten stond een kleine beschrijving wat het gerecht inhoudt. Hiervoor heb ik een scraper gemaakt in python om deze beschrijvingen op te halen en in csv formaat op te slaan. Ik heb dit gedaan met de python package BeautifulSoup. Ik heb het originele dataframe ingeladen, en vervolgens elke url afgelopen en het ID van het recept waar de url bij hoort opgeslagen, vervolgens heb ik een selector gemaakt voor de description html tekst, en dit bij de ID van het recept gezet. Het uiteindelijke resultaat was een csv die ingeladen kon worden op de applicatie:
+  
+%%%image
+  
   
 </details>
 

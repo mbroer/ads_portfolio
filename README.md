@@ -11,18 +11,21 @@
   
   <details>
     <summary>Tickets week 1 tm 5</summary>
+    
     ![Week 1 tot en met 5](https://github.com/mbroer/ads_portfolio/blob/main/scrum/1-5.png)
     
   </details>
   
   <details>
     <summary>Tickets week 6 tm 10</summary>
+    
     ![Week 6 tot en met 10](https://github.com/mbroer/ads_portfolio/blob/main/scrum/6-10.png)
     
     </details>
   
   <details>
     <summary>Tickets week 11 tm 16</summary>
+    
     ![Week 11 tot en met 16](https://github.com/mbroer/ads_portfolio/blob/main/scrum/11-16.png)
   
   Opmerking week 14:

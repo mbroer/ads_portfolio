@@ -11,7 +11,7 @@
   
   <br>
   <details>
-       <summary>Tickets week 1 tm 5</summary>
+       <summary>_Tickets week 1 tm 5_</summary>
     
 ![Week 1 tot en met 5](https://github.com/mbroer/ads_portfolio/blob/main/scrum/1-5.png)
     
@@ -19,7 +19,7 @@
   
   <br>
   <details>
-    <summary><b>Tickets week 6 tm 10</b></summary>
+    <summary>_Tickets week 6 tm 10_</summary>
     
 ![Week 6 tot en met 10](https://github.com/mbroer/ads_portfolio/blob/main/scrum/6-10.png)
     
@@ -27,7 +27,7 @@
   
   <br>
   <details>
-    <summary><b>Tickets week 11 tm 16</b></summary>
+    <summary>_Tickets week 11 tm 16_</summary>
     
 ![Week 11 tot en met 16](https://github.com/mbroer/ads_portfolio/blob/main/scrum/11-16.png)
   

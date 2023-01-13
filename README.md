@@ -1,5 +1,5 @@
 <h1>Portfolio</h1>
-Applied Data Science portfolio
+Applied Data Science portfolio<br>
 Michael Broer, 20105533
   
 <h2>Globaal</h2>

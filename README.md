@@ -100,15 +100,15 @@ Output gegenereerde gebruiker<br>
 </details>
 
 <details>
-  <summary><b>Data collection</b></summary>
+  <summary><h3>Data collection</h3></summary>
   
-<h3>FoodBoost Ingredient Translate</h3>
-<h3>FoodBoost Description Scraper</h3>
+<h4>FoodBoost Ingredient Translate</h4>
+<h4>FoodBoost Description Scraper</h4>
   
 </details>
 
 <details>
-  <summary><h2>Visualisatie</h2></summary>
+  <summary><h3>Visualisatie</h3></summary>
   
 </details>
 

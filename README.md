@@ -46,13 +46,17 @@ ___
   
 <h2>FoodBoost csv merge</h2>
 
+  <h3>Beschrijving</h3>
+Toen we voor het eerst begonnen met het FoodBoost project, stonden alle datasets los van elkaar, hierdoor was het dus lastig om een goed inzicht te krijgen in hoe alles nou in elkaar zat. Je had bijvoorbeeld het ingrediënten bestand waar elk ingrediënt van elk recept onder elkaar stond. Hierdoor kreeg je een bestand van 72000 rows. Hiervoor heb ik een python script gemaakt die alle informatie van het recept op 1 row zet en de data squished in lijsten.
+
+Hierdoor was het vooral voor de groep (die toen nog niet veel ervaring had met het joinen van tables etc) een stuk makkelijker om echt te kunnen beginnen met het FoodBoost project.
 
   <details>
-    <summary><i>Resultaten</i></summary>
+    <summary><i>Code, bestanden, resultaten</i></summary>
     
-  [Notebook](https://github.com/mbroer/ads_portfolio/blob/main/notebooks/foodboost/join_all_csv.ipynb)
-  [Resultaat](https://github.com/mbroer/ads_portfolio/blob/main/output/foodboost/food_merge_all.csv)
-  ![Resultaat](https://github.com/mbroer/ads_portfolio/blob/main/output/foodboost/merged.png)
+  [Notebook](https://github.com/mbroer/ads_portfolio/blob/main/notebooks/foodboost/join_all_csv.ipynb)<br>
+  [CSV bestand resultaat](https://github.com/mbroer/ads_portfolio/blob/main/output/foodboost/food_merge_all.csv)
+  ![Screenshot Resultaat](https://github.com/mbroer/ads_portfolio/blob/main/output/foodboost/merged.png)
   
     
     

@@ -11,7 +11,7 @@
   
   <br>
   <details>
-       <summary>_Tickets week 1 tm 5_</summary>
+    <summary><i>Tickets week 1 tm 5</i></summary>
     
 ![Week 1 tot en met 5](https://github.com/mbroer/ads_portfolio/blob/main/scrum/1-5.png)
     

@@ -14,7 +14,7 @@
   Hieronder staan alle scrum tickets op mijn naam die ik heb afgerond. Bij de meeste tickets heb ik een beschrijving van een paar zinnen zodat andere projectleden een beter inzicht kregen van waar ik mee bezig was. Onze projectgroep heeft gebruik gemaakt van de scrumtool Trello.</br></br>
   
   <details>
-    <summary><i>Tickets week 1 tm 5</i></summary>
+    <summary><h4>Tickets week 1 tm 5</h4></summary>
     
 ![Week 1 tot en met 5](https://github.com/mbroer/ads_portfolio/blob/main/scrum/1-5.png)
     
@@ -22,7 +22,7 @@
   
 
   <details>
-    <summary><i>Tickets week 6 tm 10</i></summary>
+    <summary><h4>Tickets week 6 tm 10</h4></summary>
     
 ![Week 6 tot en met 10](https://github.com/mbroer/ads_portfolio/blob/main/scrum/6-10.png)
     
@@ -30,7 +30,7 @@
   
 
   <details>
-    <summary><i>Tickets week 11 tm 16</i></summary>
+    <summary><h4>Tickets week 11 tm 16</h4></summary>
     
 ![Week 11 tot en met 16](https://github.com/mbroer/ads_portfolio/blob/main/scrum/11-16.png)
   
@@ -45,7 +45,7 @@ ___
 <h2>Data</h2>
 
 <details>
-  <summary><b>Data prep</b></summary>
+  <summary><h3>Data prep</h3></summary>
   
 <h2>FoodBoost csv merge</h2>
 

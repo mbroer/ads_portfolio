@@ -63,6 +63,7 @@ Screenshot resultaat:
   </details>
 
 
+<h2>FoodBoost simulated users</h2>
 
 <h2>FoodBoost ingredient translate</h2>
 <h2>FoodBoost description scraper</h2>

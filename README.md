@@ -7,7 +7,7 @@
 </details>
 
 <details>
-  <summary>Scrum tickets</summary>
+  <summary><b>Scrum tickets</b></summary>
   
   <details>
     <summary>Tickets week 1 tm 5</summary>
@@ -17,14 +17,14 @@
   </details>
   
   <details>
-    <summary>Tickets week 6 tm 10</summary>
+    <summary><b>Tickets week 6 tm 10</b></summary>
     
 ![Week 6 tot en met 10](https://github.com/mbroer/ads_portfolio/blob/main/scrum/6-10.png)
     
   </details>
   
   <details>
-    <summary>Tickets week 11 tm 16</summary>
+    <summary><b>Tickets week 11 tm 16</b></summary>
     
 ![Week 11 tot en met 16](https://github.com/mbroer/ads_portfolio/blob/main/scrum/11-16.png)
   
@@ -37,17 +37,17 @@
 </details>
 
 <details>
-  <summary>Data prep</summary>
+  <summary><b>Data prep</b></summary>
   
 </details>
 
 <details>
-  <summary>Data collection</summary>
+  <summary><b>Data collection</b></summary>
   
 </details>
 
 <details>
-  <summary>Visualisatie</summary>
+  <summary><b>Visualisatie</b></summary>
   
 </details>
 

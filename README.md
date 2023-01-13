@@ -9,7 +9,7 @@
 
 <details>
   <summary><b>Scrum tickets</b></summary>
-  Hieronder staan alle scrum tickets op mijn naam die ik heb afgerond. Bij de meeste tickets heb ik een beschrijving van een paar zinnen zodat andere projectleden een beter inzicht kregen van waar ik mee bezig was. Wij hebben trello gebruikt als scrumboard. </br></br>
+  Hieronder staan alle scrum tickets op mijn naam die ik heb afgerond. Bij de meeste tickets heb ik een beschrijving van een paar zinnen zodat andere projectleden een beter inzicht kregen van waar ik mee bezig was. Onze projectgroep heeft gebruik gemaakt van de scrumtool Trello.</br></br>
   
   <details>
     <summary><i>Tickets week 1 tm 5</i></summary>

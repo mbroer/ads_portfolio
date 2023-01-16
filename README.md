@@ -158,7 +158,7 @@ Deze beschrijvingen stonden niet in de originele databestanden van recepten, maa
     
 ![Screenshot json](https://github.com/mbroer/ads_portfolio/blob/main/output/cofano/json.png)
     
-    <h4>Container handmatig verplaatsen</h4>
+<h4>Container handmatig verplaatsen</h4>
     
 ![Screenshot json](https://github.com/mbroer/ads_portfolio/blob/main/output/cofano/v1.png)
 ![Screenshot json](https://github.com/mbroer/ads_portfolio/blob/main/output/cofano/v2.png)

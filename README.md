@@ -146,7 +146,9 @@ Deze beschrijvingen stonden niet in de originele databestanden van recepten, maa
   
  <details>
   <summary><h3>Screenshot applicatie</h3></summary>
+   
 ![Screenshot app](https://github.com/mbroer/ads_portfolio/blob/main/output/cofano/app.png)
+   
   </details>
   
   

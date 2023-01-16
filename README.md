@@ -158,16 +158,19 @@ Deze beschrijvingen stonden niet in de originele databestanden van recepten, maa
 ![Screenshot json](https://github.com/mbroer/ads_portfolio/blob/main/output/cofano/json.png)
     
     <h4>Container handmatig verplaatsen</h4>
+    
 ![Screenshot json](https://github.com/mbroer/ads_portfolio/blob/main/output/cofano/v1.png)
 ![Screenshot json](https://github.com/mbroer/ads_portfolio/blob/main/output/cofano/v2.png)
 ![Screenshot json](https://github.com/mbroer/ads_portfolio/blob/main/output/cofano/v3.png)
     
     <h4>visualisatie grid</h4>
+    
     Toont de bounds van plekken waar containers op de “juiste” plek staan, in dit geval dus een 3x3x3 grid
     
 ![Screenshot json](https://github.com/mbroer/ads_portfolio/blob/main/output/cofano/grid.png)
     
     <h4>Grid x-y-z coordinaten</h4>
+    
     Toont de coordinaten van lege plekken in x,y,z formaat, hiermee kun je makkelijker een beeld krijgen van het huidige veld, bijvoorbeeld in plaats van “we willen de container van schip 2 die op rij 0 kolom 1 van de 3e array zetten op rij 2 kolom 1 in de 1e array”, kun je nu zeggen we willen de blauwe container naar plek 2,1,0 krijgen.
     
 ![Screenshot json](https://github.com/mbroer/ads_portfolio/blob/main/output/cofano/grid2.png)
@@ -175,6 +178,7 @@ Deze beschrijvingen stonden niet in de originele databestanden van recepten, maa
     
     
     <h4>Informatie inzien</h4>
+    
     Door oven een container te hover met je muis en dan op de ‘i’ toets te drukken krijg je een label overzicht met informatie van die container:
     
 ![Screenshot json](https://github.com/mbroer/ads_portfolio/blob/main/output/cofano/info1.png)

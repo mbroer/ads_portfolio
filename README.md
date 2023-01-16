@@ -204,7 +204,7 @@ Met de force validate knop kun je snel alle fout geplaatste containers tonen:
   
 </details>
 
-<deteails>
+<details>
   <summary>Communicatie</summary>
 </details>
 

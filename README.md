@@ -155,6 +155,7 @@ Deze beschrijvingen stonden niet in de originele databestanden van recepten, maa
     <summary><h3>Applicatie features</h3></summary>
     <h4>Scenario’s inladen en opslaan.</h4>
     De applicatie kan een scenario inladen en opslaan via json
+    
 ![Screenshot json](https://github.com/mbroer/ads_portfolio/blob/main/output/cofano/json.png)
     
     <h4>Container handmatig verplaatsen</h4>

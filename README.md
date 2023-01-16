@@ -107,6 +107,19 @@ Een oplossing die we hadden verzonnen is om te proberen zoveel mogelijk ingredie
 
 Ik heb hier geprobeerd een groepeer script voor te maken die automatisch ingredieënten groepeerd in categorieën.
   
+Omdat de meeste systemen voor string manipulation alleen werken voor de engelse taal, was de eerste stap om de strings te vertalen naar het engels,
+hiervoor heb ik een script gemaakt die via de google translate api de ingredieënten vertaald van het Nederlands naar het Engels:
+
+  <details>
+    <summary><i>Code, bestanden, resultaten</i></summary>
+    
+    <h5>resultaat</h5>
+    
+[Translated ingredients CSV](https://github.com/mbroer/ads_portfolio/blob/main/output/foodboost/translated_ingredients.csv)
+    
+  </details
+  
+  
 %%%translate (link naar data collection), stopwords, verkleinwoorden, simularity score, etc
   
   

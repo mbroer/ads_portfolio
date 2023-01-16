@@ -185,7 +185,8 @@ In dit voorbeeld kun je zien dat een zwevende container niet op een valide place
     
 ![Screenshot json](https://github.com/mbroer/ads_portfolio/blob/main/output/cofano/info2.png)
     
-    Met de force validate knop kun je snel alle fout geplaatste containers tonen:
+Met de force validate knop kun je snel alle fout geplaatste containers tonen:
+    
 ![Screenshot json](https://github.com/mbroer/ads_portfolio/blob/main/output/cofano/info3.png)
     
   Andere features waar de applicatie over beschikt zijn:

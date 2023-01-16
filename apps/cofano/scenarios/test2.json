@@ -1,0 +1,1 @@
+{"grid": {"rows": 3, "columns": 3,"stacks": 3 },"ships": [{"id": 0, "color": [1.0,0.15,0.15]},{"id": 1, "color": [0.15,1.0,0.15]},{"id": 2, "color": [0.15,0.15,1.0]}],"containers": [{"id": 0, "shipid": 0, "placement": [0,0,0] },{"id": 1, "shipid": 0, "placement": [1,1,0] },{"id": 2, "shipid": 2, "placement": [1,1,1] }],"moves": {}} 

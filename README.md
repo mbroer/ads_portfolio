@@ -188,6 +188,14 @@ In dit voorbeeld kun je zien dat een zwevende container niet op een valide place
     Met de force validate knop kun je snel alle fout geplaatste containers tonen:
 ![Screenshot json](https://github.com/mbroer/ads_portfolio/blob/main/output/cofano/info3.png)
     
+  Andere features waar de applicatie over beschikt zijn:
+-	Het onzichtbaar maken van stapels containers om makkelijker inzicht te krijgen op de lager eronder.
+-	Alle container labels aan en uit zetten
+-	Container selecteren via dropdown (zodat je een container in het midden van een volle grid ook nog kan manipuleren)
+-	Realtime scenario saving en loading zodat je niet elke keer de applicatie opnieuw hoeft op te starten, je hoeft alleen op reload scenario te drukken en alles wordt gerefreshed.
+-	Force validation dropdown zodat je ook verstopte containers die op een foute plek staan kunt vinden.
+-	Low detail mode voor als je honderden containers wilt inladen, wordt er alleen een basic box met een kleur ingeladen in plaats van 6 wall objects met texture en normal maps.
+-	Keyboard controls voor viewpoint
 
     
   </details>

@@ -1,6 +1,12 @@
 <h1>Portfolio</h1>
 Applied Data Science Portfolio<br>
 Michael Broer, 20105533
+
+```javascript
+function hello() { 
+    console.log('hello world !'); 
+} 
+```
   
 <h2>Globaal</h2>
 In dit hoofdstuk worden alle globale onderdelen van de minor doorgenomen.

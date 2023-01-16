@@ -42,13 +42,15 @@ In dit hoofdstuk worden alle globale onderdelen van de minor doorgenomen.
     
   </details>
   
-  <details>
-  
-  <summary><h3>Domain knowledge/h3></summary>
-  
-  </details>
+
 
 ___
+</details>
+
+<details>
+  
+<summary><h3>Domain knowledge/h3></summary>
+  
 </details>
 
 <h2>Data</h2>

@@ -130,7 +130,7 @@ hiervoor heb ik een script gemaakt die via de google translate api de ingredieë
   <details>
     <summary><i>Code, bestanden, resultaten</i></summary>
     
-    <h5>resultaat</h5>
+<h5>resultaat</h5>
     
     De code voor dit script ben ik helaas verloren.
     Het was niet al te veel code, ik laadde alle ingredienten van het CSV in, en stuurde deze naar de google translate api.

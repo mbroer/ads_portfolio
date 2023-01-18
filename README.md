@@ -1,6 +1,8 @@
 <h1>Portfolio</h1>
 Applied Data Science Portfolio<br>
 Michael Broer, 20105533
+
+%%%hoofdvragen, deelvragen etc
   
 <h2>Globaal</h2>
 In dit hoofdstuk worden alle globale onderdelen van de minor doorgenomen.
@@ -178,7 +180,7 @@ Deze beschrijvingen stonden niet in de originele databestanden van recepten, maa
   
 <details>
   <summary><h4>Foodboost app</h4></summary>
-  
+  Onze groep wilde voor het foodboost project iets visueels maken voor
 </details>
   
 <details>

@@ -177,11 +177,12 @@ Deze beschrijvingen stonden niet in de originele databestanden van recepten, maa
   <summary><h3>Visualisatie</h3></summary>
   
 <details>
-  <summary><h3>Foodboost app</h3></summary>
+  <summary><h4>Foodboost app</h4></summary>
+  
 </details>
   
 <details>
-  <summary><h3>Containers app</h3></summary>
+  <summary><h4>Containers app</h4></summary>
   
   <h4>Beschrijving</h4>
   Bij de start van het container project kwam onze groep er snel achter dat het zeer lastig was om een goed beeld te krijgen van wat er nou precies gebeurde, we hadden   een matrix van een grid van containers voorbeeld:<br>

@@ -94,6 +94,12 @@ Hierna heb ik utility functies geschreven om makkelijk informatie uit die datafr
 Output gegenereerde gebruiker<br>
 ![Gegenereerde user](https://github.com/mbroer/ads_portfolio/blob/main/output/foodboost/user_gen.png)    
     Gesorteerd op favorite descending ~8000 rows
+    
+    
+[Code voor een andere user-generation notebook](https://github.com/mbroer/ads_portfolio/blob/main/notebooks/foodboost/Simulated_Users.ipynb)
+    
+    
+    
   </details>
 
 <h3>FoodBoost CSV naar Json</h3>

@@ -175,6 +175,14 @@ Deze beschrijvingen stonden niet in de originele databestanden van recepten, maa
 
 <details>
   <summary><h3>Visualisatie</h3></summary>
+  
+<details>
+  <summary><h3>Foodboost app</h3></summary>
+</details>
+  
+<details>
+  <summary><h3>Containers app</h3></summary>
+  
   <h4>Beschrijving</h4>
   Bij de start van het container project kwam onze groep er snel achter dat het zeer lastig was om een goed beeld te krijgen van wat er nou precies gebeurde, we hadden   een matrix van een grid van containers voorbeeld:<br>
     
@@ -240,9 +248,9 @@ Met de force validate knop kun je snel alle fout geplaatste containers tonen:
 -	Low detail mode voor als je honderden containers wilt inladen, wordt er alleen een basic box met een kleur ingeladen in plaats van 6 wall objects met texture en normal maps.
 -	Keyboard controls voor viewpoint
 
-    
   </details>
   
+</details>
   
 </details>
 

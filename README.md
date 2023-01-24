@@ -177,9 +177,9 @@ In dit hoofdstuk beschrijf ik een aantal modellen die ik gedurende de minor heb 
 <details>
     <summary><h3>4.3 Data preparation</h3></summary>
     
-    <h3>2.1.1 FoodBoost csv merge</h3>
+<h3>4.3.1 FoodBoost csv merge</h3>
 
-  <h4>Beschrijving</h4>
+<h4>Beschrijving</h4>
 Toen we voor het eerst begonnen met het FoodBoost project, stonden alle datasets los van elkaar, hierdoor was het dus lastig om een goed inzicht te krijgen in hoe alles nou in elkaar zat. Je had bijvoorbeeld het ingrediënten bestand waar elk ingrediënt van elk recept onder elkaar stond. Hierdoor kreeg je een bestand van 72000 rows. Hiervoor heb ik een python script gemaakt die alle informatie van het recept op 1 row zet en de data squished in lijsten. Hierdoor was het vooral voor de groep (die toen nog niet veel ervaring had met het joinen van tables etc) een stuk makkelijker om echt te kunnen beginnen met het FoodBoost project.
 <br><br>
   <details>
@@ -193,7 +193,7 @@ Screenshot resultaat:
   </details>
 
 
-<h3>2.1.2 FoodBoost simulated users</h3>
+<h3>4.3.2 FoodBoost simulated users</h3>
 
   <h4>Beschrijving</h4>
   Ons doel voor het FoodBoost project was om te kijken of een persoon een recept wel of niet lekker zou vinden, om hiervoor een model te maken hadden we dus bestaande informatie nodig om het model te kunnen trainen en testen, een oplossing die ik had bedacht was om een applicatie te schrijven die gebruikers op een semi realistische manier favoriete recepten kan genereren.
@@ -220,7 +220,7 @@ Output gegenereerde gebruiker<br>
     
   </details>
 
-<h3>2.1.3 FoodBoost CSV naar Json</h3>
+<h3>4.3.3 FoodBoost CSV naar Json</h3>
   <h4>Beschrijving</h4>
   Voor het FoodBoost project moest ik voor mijn applicatie een csv bestand omzetten naar json, dit was gelukkig vrij simpel en kon met een file reader simpel mijn csv omzetten zodat ik een json bestand in kon laden en dan via het ID van het recept, de beschrijving van dat recept kon ophalen.
   

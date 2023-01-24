@@ -275,6 +275,7 @@ Mijn bijdrage aan het paper samengevat:
 - Meeste opmaak
 - Verwoorden van alinea's, weghalen van persoonlijke voornaamwoorden (ik, we) etc.
 - Spelling, grammatica en opmerkingen verbeteren.
+- Opmerkingen met pointers hoe iemand zijn stuk zou kunnen verbeteren.
 - Aanbevelen van cruciale toevoegingen, zoals tijd die het model nodig heeft om te voorspellen, het tonen van de cutoff van het model wanneer die het optimum heeft bereikt.
 - De hoofdstukken Onderzoeksopzet, Dataverzameling, Verzamelde data, Visualisatie resultaten, Analyse compleet herschreven om het consistent te maken.
 - Discussieren met de andere over onnodige alinea's, denk hierbij aan alineas die uitleggen wat RL of een reward functie is/ doet.

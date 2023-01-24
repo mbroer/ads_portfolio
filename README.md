@@ -156,7 +156,7 @@ Hier moest ik nog meer onderzoek naar doen om dit goed werkend te krijgen maar w
 </details>
 
 <details>
-  <summary><h3>Data collection</h3></summary>
+  <summary><h3>3 Data collection</h3></summary>
   
 
   

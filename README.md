@@ -156,7 +156,7 @@ Hier moest ik nog meer onderzoek naar doen om dit goed werkend te krijgen maar w
 </details>
 
 <details>
-  <summary><h3>3 Data collection</h3></summary>
+  <summary><h3>2.2 Data collection</h3></summary>
   
 
   
@@ -176,7 +176,7 @@ Deze beschrijvingen stonden niet in de originele databestanden van recepten, maa
 </details>
 
 <details>
-  <summary><h3>Visualisatie</h3></summary>
+  <summary><h3>2.3 Visualisatie</h3></summary>
   
 <details>
   <summary><h4>Foodboost app</h4></summary>
@@ -258,7 +258,7 @@ Met de force validate knop kun je snel alle fout geplaatste containers tonen:
 </details>
 
 <details>
-  <summary><h3>Communicatie<h3></summary>
+  <summary><h3>3. Communicatie<h3></summary>
     
     presentaties....
     paper....

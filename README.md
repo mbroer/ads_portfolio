@@ -146,6 +146,7 @@ In dit hoofdstuk beschrijf ik een aantal modellen die ik gedurende de minor heb 
 	  
 <details>
   <summary><h4>Foodboost app</h4></summary>
+	%%%
   Onze groep wilde voor het foodboost project iets visueels maken voor
 </details>
   

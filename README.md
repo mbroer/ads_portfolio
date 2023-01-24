@@ -9,9 +9,9 @@ Michael Broer, 20105533
     
 </details>
 
-<details><summary><h3>~~0.2 Reflection on own contribution to the project.~~</h3></summary></details>
-<details><summary><h3>~~0.3 Reflection on own learning objectives.~~</h3></summary></details>
-<details><summary><h3>~~0.4 Evaluation on the group project as a whole.~~</h3></summary></details>
+<details><summary><h3><del>0.2 Reflection on own contribution to the project.</del></h3></summary></details>
+<details><summary><h3><del>0.3 Reflection on own learning objectives.</del></h3></summary></details>
+<details><summary><h3><del>0.4 Evaluation on the group project as a whole.</del></h3></summary></details>
 
 <h2>1. Research project</h2>
 

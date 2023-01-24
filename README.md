@@ -47,6 +47,32 @@ De sourcecode van de applicatie is hier terug te vinden:
 <details>
     <summary><h3>1.2 Evaluation</h3></summary>
     
+<h4>1.2.1 Foodboost app</h4>
+Mijn eindproduct voor dit product, namelijk de quiz applicatie, kan verbeterd worden in de toekomst door het uiteindelijke model te implementeren in de applicatie. Op dit moment geeft de applicatie een pseudo-random lijst terug, gebaseerd op het thema van de gerechten die je hebt geselecteerd. De reden hiervoor is dat het model niet optijd af was om dit te implementeren in de applcatie voor de externe presentatie. Om dit te realiseren zou het model aangepast moeten worden zodat het een x aantal recepten kan accepteren en op basis daarvan de index terugstuurd naar de applicatie, zodat deze die kan tonen.
+    
+<h4>1.2.2 Containers app</h4>
+De visuele container applicatie kan op meerdere manieren worden verbeterd.
+1) Automatisch inladen van output van het model.
+Als we nu output van het model visueel willen zien, moeten we de output van het model, bijvoorbeeld:
+<code>array([[[3,3,3],
+		[3,3,0],
+		[3,0,0]],
+
+		[[1,1,1],
+		[1,0,0],
+		[1,1,0]],
+
+		[[2,2,2],
+		[2,2,2],
+		[0,0,0]]])</code>
+kopieëren en plakken in een inputbox van de visuele applicatie.
+    Als het model en de applicatie gekoppeld zouden worden zou dit automatisch ingeladen kunnen worden dat tijd zou besparen.
+2) Tijdlijn voor elke stap die het model zet.
+De applicatie zou een stuk geadvanceerder zijn als je bij elke stap van het model de output zou kunnen zien om te evalueren of het model goed werkt. Hiervoor zou je nu voor elke stap een nieuwe scenario moeten maken.
+Ik zou dit zelf doen door containers te verplaatsen, hiervoor is al een moves field aangemaakt in de scenario json's
+    
+    
+    
 </details>
 
 <details>

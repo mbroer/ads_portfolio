@@ -54,7 +54,7 @@ Mijn eindproduct voor dit product, namelijk de quiz applicatie, kan verbeterd wo
 De visuele container applicatie kan op meerdere manieren worden verbeterd.
 1) Automatisch inladen van output van het model.
 Als we nu output van het model visueel willen zien, moeten we de output van het model, bijvoorbeeld:<br>
-```
+<code>
 	array([[[3,3,3],
 		[3,3,0],
 		[3,0,0]],
@@ -66,7 +66,7 @@ Als we nu output van het model visueel willen zien, moeten we de output van het 
 		[[2,2,2],
 		[2,2,2],
 		[0,0,0]]])
-```
+</code>
 kopieëren en plakken in een inputbox van de visuele applicatie.
     Als het model en de applicatie gekoppeld zouden worden zou dit automatisch ingeladen kunnen worden dat tijd zou besparen.
 2) Tijdlijn voor elke stap die het model zet.

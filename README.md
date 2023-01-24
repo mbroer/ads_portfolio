@@ -2,7 +2,7 @@
 Applied Data Science Portfolio<br>
 Michael Broer, 20105533
 
-<h2>0. Obligatory criteria</h2>
+<h2><b>0. Obligatory criteria</b></h2>
     
 <details>
     <summary><h3>0.1 DataCamp Course completion</h3></summary>
@@ -18,7 +18,7 @@ Hieronder heb ik een screenshot toegevoegt van alle datacamp courses die ik tijd
 <details><summary><h3><del>0.4 Evaluation on the group project as a whole.</del></h3></summary>komen te vervallen</details>
 
     
-<h2>1. Research project</h2>
+<h2><b>1. Research project</b></h2>
 
 <details>
     <summary><h3>1.1 Task definition</h3></summary>
@@ -115,7 +115,7 @@ Hieronder staan alle scrum tickets op mijn naam die ik heb afgerond. Bij de mees
     
 </details>
 
-<h2>2. Predictive Analytics</h2>
+<h2><b>2. Predictive Analytics</b></h2>
 <details>
     <summary><h3>2.1 Selecting a Model</h3></summary>
 In dit hoofdstuk beschrijf ik een aantal modellen die ik gedurende de minor heb gebruikt.
@@ -146,7 +146,7 @@ In dit hoofdstuk beschrijf ik een aantal modellen die ik gedurende de minor heb 
 </details>
 
 
-<h2>3. Domain knowledge</h2> <!-- skippen? -->
+<h2><b>3. Domain knowledge</b></h2> <!-- skippen? -->
 <details>
     <summary><h3>3.1 Introduction of the subject field</h3></summary>
     
@@ -163,7 +163,7 @@ In dit hoofdstuk beschrijf ik een aantal modellen die ik gedurende de minor heb 
 
 
 
-<h2>4. Data preprocessing</h2>
+<h2><b>4. Data preprocessing</b></h2>
 <details>
     <summary><h3>4.1 Data exploration</h3></summary>
     
@@ -232,7 +232,7 @@ Output gegenereerde gebruiker<br>
     
   </details>
   
-  <h3>2.1.4 FoodBoost Ingredient Groeperen</h3>
+  <h3>4.3.4 FoodBoost Ingredient Groeperen</h3>
   <h4>Beschrijving</h4>
   Tijdens het foodboost project kwamen we erachter dat het model veel moeite had om voorspellingen te maken, een gebruiker die veel recepten met tomaat lekker vond, zou een lage score geven aan een recept waar ook tomaat in zit, maar dan met een andere naam. Een voorbeeld hiervan is een user met favoriete recepten zoals: tomatensalade, tomatensoep, plakken tomaat en komkommer, en dan een voorspelling op bijvoorbeeld het gerecht gesneden tomaat. Hier gaf het model aan dat de gebruiker gesneden tomaat niet lekker zou vinden. Na discussie gingen wij ervan uit als projectgroep dat het model de correlatie tussen tomaten en tomaat niet kon vinden.
 
@@ -283,7 +283,7 @@ Hier moest ik nog meer onderzoek naar doen om dit goed werkend te krijgen maar w
 
 
 
-<h2>5. Communication</h2> <!-- skippen? -->
+<h2><b>5. Communication</b></h2> <!-- skippen? -->
 <details>
     <summary><h3>5.1 Presentations</h3></summary>
     

@@ -17,6 +17,7 @@ In dit hoofdstuk worden alle globale onderdelen van de minor doorgenomen.
   
   <summary><h3>1.2 Scrum tickets</h3></summary>
   Hieronder staan alle scrum tickets op mijn naam die ik heb afgerond. Bij de meeste tickets heb ik een beschrijving van een paar zinnen zodat andere projectleden een beter inzicht kregen van waar ik mee bezig was. Onze projectgroep heeft gebruik gemaakt van de scrumtool Trello.</br></br>
+  Ik heb geprobeerd iedereen in de projectgroep aan te moedigen om van deze tool gebruik te maken, maar dit is alleen gedurende het eerste project gedaan. Ik ben wel gebruik blijven maken van het scrumboard gedurende het tweede project.
   
   <details>
     <summary><h4>Tickets week 1 tm 5</h4></summary>

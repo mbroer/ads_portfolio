@@ -2,6 +2,130 @@
 Applied Data Science Portfolio<br>
 Michael Broer, 20105533
 
+<h2>0. Obligatory criteria</h2>
+
+<details>
+    <summary><h3>0.1 DataCamp Course completion.</h3></summary>
+    
+</details>
+
+<details><summary><h3>~~0.2 Reflection on own contribution to the project.~~</h3></summary></details>
+<details><summary><h3>~~0.3 Reflection on own learning objectives.~~</h3></summary></details>
+<details><summary><h3>~~0.4 Evaluation on the group project as a whole.~~</h3></summary></details>
+
+<h2>1. Research project</h2>
+
+<details>
+    <summary><h3>1.1 Task definition</h3></summary>
+    
+</details>
+
+<details>
+    <summary><h3>1.2 Evaluation</h3></summary>
+    
+</details>
+
+<details>
+    <summary><h3>1.3 Conclusions</h3></summary>
+    
+</details>
+
+<details>
+    <summary><h3>1.4 Planning</h3></summary>
+    
+</details>
+
+
+<h2>2. Predictive Analytics</h2>
+<details>
+    <summary><h3>2.1 Selecting a Model</h3></summary>
+    
+</details>
+<details>
+    <summary><h3>2.2 Configuring a Model</h3></summary>
+    
+</details>
+
+<details>
+    <summary><h3>2.3 Training a Model</h3></summary>
+    
+</details>
+
+<details>
+    <summary><h3>2.4 Evaluating a Model</h3></summary>
+    
+</details>
+
+<details>
+    <summary><h3>2.5 Visualizing the outcome of a model (explanatory)</h3></summary>
+    
+</details>
+
+
+<h2>3. Domain knowledge</h2>
+<details>
+    <summary><h3>3.1 Introduction of the subject field</h3></summary>
+    
+</details>
+<details>
+    <summary><h3>3.2 Literature research</h3></summary>
+    
+</details>
+
+<details>
+    <summary><h3>3.3 Explanation of Terminology, jargon and definitions</h3></summary>
+    
+</details>
+
+
+
+<h2>4. Data preprocessing</h2>
+<details>
+    <summary><h3>4.1 Data exploration</h3></summary>
+    
+</details>
+
+<details>
+    <summary><h3>4.2 Data cleansing</h3></summary>
+    
+</details>
+
+<details>
+    <summary><h3>4.3 Data preparation</h3></summary>
+    
+</details>
+
+<details>
+    <summary><h3>4.4 Data explanation</h3></summary>
+    
+</details>
+
+<details>
+    <summary><h3>4.5 Data visualization (exploratory)</h3></summary>
+    
+</details>
+
+
+
+<h2>5. Communication</h2>
+<details>
+    <summary><h3>5.1 Presentations</h3></summary>
+    
+</details>
+
+<details>
+    <summary><h3>5.2 Writing paper</h3></summary>
+    
+</details>
+
+
+
+
+
+<h1>Portfolio</h1>
+Applied Data Science Portfolio<br>
+Michael Broer, 20105533
+
 %%%hoofdvragen, deelvragen etc
   
 <h2>1. Globaal</h2>

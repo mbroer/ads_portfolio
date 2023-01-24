@@ -56,16 +56,17 @@ De visuele container applicatie kan op meerdere manieren worden verbeterd.
 Als we nu output van het model visueel willen zien, moeten we de output van het model, bijvoorbeeld:<br>
 
 		array([[[3,3,3],
-		[3,3,0],
-		[3,0,0]],
+			[3,3,0],
+			[3,0,0]],
 
-		[[1,1,1],
-		[1,0,0],
-		[1,1,0]],
+			[[1,1,1],
+			[1,0,0],
+			[1,1,0]],
 
-		[[2,2,2],
-		[2,2,2],
-		[0,0,0]]])
+			[[2,2,2],
+			[2,2,2],
+			[0,0,0]]]
+		)
 
 kopieëren en plakken in een inputbox van de visuele applicatie.
     Als het model en de applicatie gekoppeld zouden worden zou dit automatisch ingeladen kunnen worden dat tijd zou besparen.

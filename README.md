@@ -4,10 +4,10 @@ Michael Broer, 20105533
 
 %%%hoofdvragen, deelvragen etc
   
-<h2>Globaal</h2>
+<h2>1. Globaal</h2>
 In dit hoofdstuk worden alle globale onderdelen van de minor doorgenomen.
 <details>
-  <summary><h3>Datacamp courses</h3></summary>
+  <summary><h3>1.1 Datacamp courses</h3></summary>
   Hieronder heb ik een screenshot toegevoegt van alle datacamp courses die ik tijdens de minor heb gemaakt, de course van 2 Oct was later ingeleverd vanwege persoonlijke omstandigheden, voor de rest is alles op tijd gemaakt.
   
 ![Portfolio](https://github.com/mbroer/ads_portfolio/blob/main/datacamp.png)
@@ -15,7 +15,7 @@ In dit hoofdstuk worden alle globale onderdelen van de minor doorgenomen.
 </details>
 <details>
   
-  <summary><h3>Scrum tickets</h3></summary>
+  <summary><h3>1.2 Scrum tickets</h3></summary>
   Hieronder staan alle scrum tickets op mijn naam die ik heb afgerond. Bij de meeste tickets heb ik een beschrijving van een paar zinnen zodat andere projectleden een beter inzicht kregen van waar ik mee bezig was. Onze projectgroep heeft gebruik gemaakt van de scrumtool Trello.</br></br>
   
   <details>

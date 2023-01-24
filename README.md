@@ -2,8 +2,9 @@
 Applied Data Science Portfolio<br>
 Michael Broer, 20105533
 
-<h2>0. Obligatory criteria</h2>
-
+<details>
+    <summary><h3>0. Obligatory criteria</h3></summary>
+    
 <details>
     <summary><h3>0.1 DataCamp Course completion.</h3></summary>
     
@@ -13,6 +14,10 @@ Michael Broer, 20105533
 <details><summary><h3><del>0.3 Reflection on own learning objectives.</del></h3></summary></details>
 <details><summary><h3><del>0.4 Evaluation on the group project as a whole.</del></h3></summary></details>
 
+</details><!--end Obligatory criteria-->
+
+    
+    
 <h2>1. Research project</h2>
 
 <details>

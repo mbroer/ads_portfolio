@@ -56,12 +56,12 @@ ___
   
 </details>
 
-<h2>Data</h2>
+<h2>2. Data</h2>
 
 <details>
-  <summary><h3>Data prep</h3></summary>
+  <summary><h3>2.1 Data prep</h3></summary>
   
-<h3>FoodBoost csv merge</h3>
+<h3>2.1.1 FoodBoost csv merge</h3>
 
   <h4>Beschrijving</h4>
 Toen we voor het eerst begonnen met het FoodBoost project, stonden alle datasets los van elkaar, hierdoor was het dus lastig om een goed inzicht te krijgen in hoe alles nou in elkaar zat. Je had bijvoorbeeld het ingrediënten bestand waar elk ingrediënt van elk recept onder elkaar stond. Hierdoor kreeg je een bestand van 72000 rows. Hiervoor heb ik een python script gemaakt die alle informatie van het recept op 1 row zet en de data squished in lijsten. Hierdoor was het vooral voor de groep (die toen nog niet veel ervaring had met het joinen van tables etc) een stuk makkelijker om echt te kunnen beginnen met het FoodBoost project.
@@ -77,7 +77,7 @@ Screenshot resultaat:
   </details>
 
 
-<h3>FoodBoost simulated users</h3>
+<h3>2.1.2 FoodBoost simulated users</h3>
 
   <h4>Beschrijving</h4>
   Ons doel voor het FoodBoost project was om te kijken of een persoon een recept wel of niet lekker zou vinden, om hiervoor een model te maken hadden we dus bestaande informatie nodig om het model te kunnen trainen en testen, een oplossing die ik had bedacht was om een applicatie te schrijven die gebruikers op een semi realistische manier favoriete recepten kan genereren.
@@ -104,7 +104,7 @@ Output gegenereerde gebruiker<br>
     
   </details>
 
-<h3>FoodBoost CSV naar Json</h3>
+<h3>2.1.3 FoodBoost CSV naar Json</h3>
   <h4>Beschrijving</h4>
   Voor het FoodBoost project moest ik voor mijn applicatie een csv bestand omzetten naar json, dit was gelukkig vrij simpel en kon met een file reader simpel mijn csv omzetten zodat ik een json bestand in kon laden en dan via het ID van het recept, de beschrijving van dat recept kon ophalen.
   
@@ -116,7 +116,7 @@ Output gegenereerde gebruiker<br>
     
   </details>
   
-  <h3>FoodBoost Ingredient Groeperen</h3>
+  <h3>2.1.4 FoodBoost Ingredient Groeperen</h3>
   <h4>Beschrijving</h4>
   Tijdens het foodboost project kwamen we erachter dat het model veel moeite had om voorspellingen te maken, een gebruiker die veel recepten met tomaat lekker vond, zou een lage score geven aan een recept waar ook tomaat in zit, maar dan met een andere naam. Een voorbeeld hiervan is een user met favoriete recepten zoals: tomatensalade, tomatensoep, plakken tomaat en komkommer, en dan een voorspelling op bijvoorbeeld het gerecht gesneden tomaat. Hier gaf het model aan dat de gebruiker gesneden tomaat niet lekker zou vinden. Na discussie gingen wij ervan uit als projectgroep dat het model de correlatie tussen tomaten en tomaat niet kon vinden.
 
@@ -163,7 +163,7 @@ Hier moest ik nog meer onderzoek naar doen om dit goed werkend te krijgen maar w
   
   
   
-<h3>FoodBoost Description Scraper</h3>
+<h3>2.1.4 FoodBoost Description Scraper</h3>
 Voor de applicatie van het FoodBoost project wilde ik de beschrijving van het gerecht tonen omdat het naar mijn mening een cruciaal is voor een gebruiker om een beter idee te krijgen of hij een gerecht wel of niet lekker gaat vinden, en omdat het de applicatie visueel leuker maakt.
 
 ![Screenshot app](https://github.com/mbroer/ads_portfolio/blob/main/output/foodboost/app.png)

@@ -68,14 +68,12 @@ Als we nu output van het model visueel willen zien, moeten we de output van het 
 			[0,0,0]]]
 		)
 
-kopieëren en plakken in een inputbox van de visuele applicatie.
-    Als het model en de applicatie gekoppeld zouden worden zou dit automatisch ingeladen kunnen worden dat tijd zou besparen.
+kopieëren en plakken in een inputbox van de applicatie.
+    Als het model en de applicatie gekoppeld zouden worden zou dit automatisch ingeladen kunnen worden zodat dat tijd zou besparen.
 2) Tijdlijn voor elke stap die het model zet.
 De applicatie zou een stuk geadvanceerder zijn als je bij elke stap van het model de output zou kunnen zien om te evalueren of het model goed werkt. Hiervoor zou je nu voor elke stap een nieuwe scenario moeten maken.
 Ik zou dit zelf doen door containers te verplaatsen, hiervoor is al een moves field aangemaakt in de scenario json's
-    
-    
-    
+
 </details>
 
 <details>
@@ -85,6 +83,35 @@ Ik zou dit zelf doen door containers te verplaatsen, hiervoor is al een moves fi
 
 <details>
     <summary><h3>1.4 Planning</h3></summary>
+Ik heb gedurende de projecten gebruik gemaatk van de scrumtool Trello, Ik heb geprobeerd iedereen in de projectgroep aan te moedigen om ook van deze tool gebruik te maken, maar dit is alleen gedurende het eerste project gedaan. Ik ben wel gebruik blijven maken van het scrumboard gedurende het tweede project.
+
+Hieronder staan alle scrum tickets op mijn naam die ik heb afgerond. Bij de meeste tickets heb ik een beschrijving van een paar zinnen zodat andere projectleden een beter inzicht kregen van waar ik mee bezig was.</br></br>
+
+  <details>
+    <summary><h4>Tickets week 1 tm 5</h4></summary>
+    
+![Week 1 tot en met 5](https://github.com/mbroer/ads_portfolio/blob/main/scrum/1-5.png)
+    
+  </details>
+  
+
+  <details>
+    <summary><h4>Tickets week 6 tm 10</h4></summary>
+    
+![Week 6 tot en met 10](https://github.com/mbroer/ads_portfolio/blob/main/scrum/6-10.png)
+    
+  </details>
+  
+
+  <details>
+    <summary><h4>Tickets week 11 tm 16</h4></summary>
+    
+![Week 11 tot en met 16](https://github.com/mbroer/ads_portfolio/blob/main/scrum/11-16.png)
+  
+<h4>Opmerking week 14</h4>
+  Ik had een leuke stageplek gevonden die mij zeer goed financieel wilden compenseren, hiervoor moest ik een applicatie maken om mijn kennis te laten zien voordat ze me de stageplek konden geven. Hiervoor had ik een week de tijd en heb dus (met begrip van de groep) deze week niet aan het project gewerkt om 100% van mijn tijd in deze applicatie te kunnen steken. (En ja ik heb de stageplek gekregen.)
+  
+  
     
 </details>
 

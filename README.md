@@ -83,7 +83,7 @@ Ik zou dit zelf doen door containers te verplaatsen, hiervoor is al een moves fi
 
 <details>
     <summary><h3>1.4 Planning</h3></summary>
-Ik heb gedurende de projecten gebruik gemaatk van de scrumtool Trello, Ik heb geprobeerd iedereen in de projectgroep aan te moedigen om ook van deze tool gebruik te maken, maar dit is alleen gedurende het eerste project gedaan. Ik ben wel gebruik blijven maken van het scrumboard gedurende het tweede project.
+Ik heb gedurende de projecten gebruik gemaatk van de scrumtool Trello, Ik heb geprobeerd iedereen in de projectgroep aan te moedigen om ook van deze tool gebruik te maken, maar dit is alleen gedurende het eerste project gedaan. Ik ben wel gebruik blijven maken van het scrumboard gedurende het tweede project.<br>
 
 Hieronder staan alle scrum tickets op mijn naam die ik heb afgerond. Bij de meeste tickets heb ik een beschrijving van een paar zinnen zodat andere projectleden een beter inzicht kregen van waar ik mee bezig was.</br></br>
 
@@ -112,14 +112,15 @@ Hieronder staan alle scrum tickets op mijn naam die ik heb afgerond. Bij de mees
   Ik had een leuke stageplek gevonden die mij zeer goed financieel wilden compenseren, hiervoor moest ik een applicatie maken om mijn kennis te laten zien voordat ze me de stageplek konden geven. Hiervoor had ik een week de tijd en heb dus (met begrip van de groep) deze week niet aan het project gewerkt om 100% van mijn tijd in deze applicatie te kunnen steken. (En ja ik heb de stageplek gekregen.)
   
 </details>
-  
     
 </details>
-
 
 <h2>2. Predictive Analytics</h2>
 <details>
     <summary><h3>2.1 Selecting a Model</h3></summary>
+In dit hoofdstuk beschrijf ik een aantal modellen die ik gedurende de minor heb gebruikt.
+	
+	
     
 </details>
 <details>
@@ -134,6 +135,8 @@ Hieronder staan alle scrum tickets op mijn naam die ik heb afgerond. Bij de mees
 
 <details>
     <summary><h3>2.4 Evaluating a Model</h3></summary>
+	%%%cofano, hoe ik met mijn visualisatie app het model evalueer.
+	
     
 </details>
 
@@ -143,7 +146,7 @@ Hieronder staan alle scrum tickets op mijn naam die ik heb afgerond. Bij de mees
 </details>
 
 
-<h2>3. Domain knowledge</h2>
+<h2>3. Domain knowledge</h2> <!-- skippen? -->
 <details>
     <summary><h3>3.1 Introduction of the subject field</h3></summary>
     
@@ -188,7 +191,7 @@ Hieronder staan alle scrum tickets op mijn naam die ik heb afgerond. Bij de mees
 
 
 
-<h2>5. Communication</h2>
+<h2>5. Communication</h2> <!-- skippen? -->
 <details>
     <summary><h3>5.1 Presentations</h3></summary>
     

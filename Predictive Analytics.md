@@ -16,6 +16,8 @@ Omdat met SVM de beste boundary/hyperplane gevonden zou kunnen worden voor de in
 
 <h4>2.1.2 Cofano</h4>
 
+Voor het container project heb ik gebruik gemaakt van de volgende modellen:
+
 * AC2, om de iteraties van de container indeling te evalueren.
 Als groep hadden we eerst gekozen om met het AC2 model te werken, dit wilde we gebruiken om te kijken of de actor dan beter getrained kon worden met het reward/ penalty systeem. Bij mijn oplossing had ik mijn states actions en reward penalty systeem opgesteld voor de agent als een 2x2 grid. Hier vertel ik later over.
 

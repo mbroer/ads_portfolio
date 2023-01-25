@@ -27,8 +27,6 @@ Outliers heb ik handmatig verwijderd, dit waren bijvoorbeeld recepten waarvan in
 <h3>4.3 Data preparation</h3>
 4.3.1 FoodBoost simulated users
 Zoals in 4.2.1 vermeld, heb ik outliers van de dataframes handmatig verwijderd, onnodige kolommen gedropt, dupes te verwijderen etc.
-        
-
 
 <h4>4.3.2 FoodBoost simulated users</h4>
 
@@ -37,7 +35,6 @@ Zoals in 4.2.1 vermeld, heb ik outliers van de dataframes handmatig verwijderd, 
   
 [Applicatie source code](https://github.com/mbroer/ads_portfolio/tree/main/apps/foodboost/simulated%20users)
   
-
   
 Hierna heb ik utility functies geschreven om makkelijk informatie uit die dataframes te kunnen halen. Denk hierbij het omzetten van een dataframe row in een object, of een functie om alle informatie van een recept op te halen via een ID. Ook een zoek algoritme om makkelijk informatie op te kunnen halen
 
@@ -52,8 +49,6 @@ Output gegenereerde gebruiker<br>
     
     
 [Code voor een andere user-generation notebook](https://github.com/mbroer/ads_portfolio/blob/main/notebooks/foodboost/Simulated_Users.ipynb)
-    
-    
     
   </details>
 
@@ -104,8 +99,6 @@ Met deze strings heb ik onderzoek gedaan naar hoe deze het beste zouden kunnen w
 Hier moest ik nog meer onderzoek naar doen om dit goed werkend te krijgen maar we gingen over naar een ander systeem. Dit is dus niet gebruikt voor ons project, maar hiermee heb ik wel meer kennis opgedaan van kmeans.
   
 </details>
-    
-    
 
 <h4>4.4 Data explanation</h4>
 

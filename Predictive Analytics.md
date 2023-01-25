@@ -9,7 +9,7 @@ Voor het Foodboost project heb ik gebruik gemaakt van de volgende modellen:<br>
 * MatrixFactorization, voor het recommender systeem.<br> Hiervoor is gekozen omdat het vaak gebruikt wordt voor het maken van recommender systemen. Dit komt omdat het effectief grote en schaarse data kan verwerken. Door de users en recepten in het product te decompenseren als user-item, kan de matrix de onderliggende patronen en relaties vastleggen. Dit kan leiden tot betere generalisatie en betere voorspellingen, zelfs als deze geen interactiegeschiedenis hebben. Over het algemeen is MatrixFactorization een krachtige techniek die een recommendersysteem en aanbevelingen van hoge kwaliteit kan produceren.
 	
 * Logistic regression, om te proberen om ingrediënten en tags te groeperen.
-Met logistic regression is het mogelijk om te voorspellen of een ingredieënt in een category zou kunnen zitten. 
+Met logistic regression is het mogelijk om te voorspellen of een ingredieënt in een category zou kunnen zitten. Hiervoor heb ik de benodigde data gepivot en numeriek gemaakt.
 	
 * SVM, om te proberen om de ingrediënten en tags te groeperen via categorie.
 Omdat met SVM de beste boundary/hyperplane gevonden zou kunnen worden voor de ingredienten, heb ik dit geprobeerd te gebruiken met de foodboost datasets, met het eerder genoemde ingredienten-groepeer programma. Ik had train en test data gemaakt voor 'tomato' en 'onion', bij tomato kreeg ik een Accuracy van ~85% en bij onion was het rond de 90%. Dit was vlak voor de switch naar het container project, dus ik heb hier verder niet meer naar gekeken

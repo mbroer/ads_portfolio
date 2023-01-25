@@ -18,7 +18,9 @@
 |6.|The portfolio consists of links to the Python Notebooks or other evidence material about your contribution on the project that you have finished yourself. |:heavy_check_mark:|
 <br>
 	
-</details>
+___
+	
+</details><!--end ko-->
 
 <details>
     <summary><h2><b>Obligatory criteria</b></h2></summary>
@@ -36,7 +38,9 @@ Hieronder heb ik een screenshot toegevoegt van alle datacamp courses die ik tijd
 <details><summary><h3><del>Reflection on own learning objectives.</del></h3></summary>komen te vervallen</details>
 <details><summary><h3><del>Evaluation on the group project as a whole.</del></h3></summary>komen te vervallen</details>
 
-</details>
+___
+	
+</details><!--end obligatory-->
 
 <details>
     <summary><h2><b>Subjects</b></h2></summary>

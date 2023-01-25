@@ -1,7 +1,8 @@
+<p align="center">
 <h1>Portfolio</h1>
 Applied Data Science Portfolio<br>
 Michael Broer, 20105533
-
+</p>
 <details>
     <summary><h3>Knock-out criteria</h3></summary>
 	

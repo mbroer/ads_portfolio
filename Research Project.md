@@ -76,9 +76,10 @@ De conclusies voor het foodboost project waren:
 Gedaan via een quiz-applicatie. Je krijgt steeds 4 recepten op je scherm, daarvan klik je er één aan, en na x keer selecteren krijg je je weekmenu te zien. Deze applicatie is gemaakt in VUE, hiervoor is gekozen omdat ik al ervaring had met dat framework, en vanwege de realtime page updates die het ondersteund.
 	
 <b>2. Welke methodes kunnen we gebruiken om te voorspellen of de eindgebruiker een recept wel of niet lekker gaat vinden?</b><br>
+Er is een model gemaakt dat op basis van een paar keukens (bijvoorbeeld italiaans, hollands) recepten kan aanraaden aan een user die deze lekker zal vinden. Dit model was voor 99% accuraat.
 
-	
 <b>3. Kunnen we ingredienten groeperen voor betere voorspellingen?</b><br>
+Met behulp van string matching algoritmes en logistic regression konde we meer dan de helft van de ingredieënten groeperen, of dit nut heeft gehad op het model is niet te zeggen, want hier is niet verder aan gewerkt.
     
 
 <h4>1.3.2 Containers</h4>

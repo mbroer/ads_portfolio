@@ -2,8 +2,13 @@
 <p align="center">Applied Data Science<br>Michael Broer, 20105533</p>
 <br>
 
-<p align="center">Dit portfolio volgt de structuur van het Scoring rubrics document.</p>
+<details align="center">
+    <summary><h4><b>Opmerkingen</b></h2></summary>
 
+Om het nakijken zo makkelijk mogelijk te maken, heb ik het portfolio in de structuur van het Scoring rubrics document geschreven, echter is dit document niet chronologisch consistent, dus in sommige onderdelen waar ik over vertel, komt de context pas in een later onderdeel tevoorschijn.
+
+	
+</details>
 
 <details>
     <summary><h4><b>Knock-out criteria</b></h2></summary>
@@ -88,9 +93,13 @@ De sourcecode van de applicatie is hier terug te vinden:
     <summary><h3>1.2 Evaluation</h3></summary>
     
 <h4>1.2.1 Foodboost app</h4>
-Mijn eindproduct voor dit product, namelijk de quiz applicatie, kan verbeterd worden in de toekomst door het uiteindelijke model te implementeren in de applicatie. Op dit moment geeft de applicatie een pseudo-random lijst terug, gebaseerd op het thema van de gerechten die je hebt geselecteerd. De reden hiervoor is dat het model niet optijd af was om dit te implementeren in de applcatie voor de externe presentatie. Om dit te realiseren zou het model aangepast moeten worden zodat het een x aantal recepten kan accepteren en op basis daarvan de index terugstuurd naar de applicatie, zodat deze die kan tonen.
+Mijn persoonlijke eindproduct voor dit product, namelijk de quiz applicatie, kan verbeterd worden in de toekomst door het uiteindelijke model te implementeren in de applicatie. Op dit moment geeft de applicatie een pseudo-random lijst terug, gebaseerd op het thema van de gerechten die je hebt geselecteerd. De reden hiervoor is dat het model niet optijd af was om dit te implementeren in de applcatie voor de externe presentatie. Om dit te realiseren zou het model aangepast moeten worden zodat het een x aantal recepten kan accepteren en op basis daarvan de index terugstuurd naar de applicatie, zodat deze die kan tonen.
+	
+<h4>1.2.2 Foodboost user-gen</h4>
+De foodboost user-gen applicatie kan worden verbeterd door een GUI in de applicatie te bouwen. Nu is het nog een command line applicatie. Ook kan het groepeer gedeelte voor de ingredieënten verbeterd worden door te onderzoeken of FuzzyWuzzy hier wel de beste oplossing voor is, en of de simularity score wel optimaal is.
+	
     
-<h4>1.2.2 Containers app</h4>
+<h4>1.2.3 Containers app</h4>
 De visuele container applicatie kan op meerdere manieren worden verbeterd.
 1) Automatisch inladen van output van het model.
 Als we nu output van het model visueel willen zien, moeten we de output van het model, bijvoorbeeld:<br>

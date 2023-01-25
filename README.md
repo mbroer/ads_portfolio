@@ -47,7 +47,7 @@ ___
     <summary><h4><b>Subjects</b></h4></summary>
 Student has been working on at least three of the following subjects:
 	
-|Select 3 subjects|Included|
+|Onderwerpen|In portfolio|
 |---|---|
 |Research project|:heavy_multiplication_x:|
 |Predictive analysis|:heavy_multiplication_x:|

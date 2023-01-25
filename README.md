@@ -2,6 +2,21 @@
 Applied Data Science Portfolio<br>
 Michael Broer, 20105533
 
+<details>
+    <summary><h3>Knock-out criteria</h3></summary>
+	
+	|Num|unchecked|crossed|
+	|---|---|---|
+	|1.|The contents of your personal portfolio reflect your contribution to the project, your abilities and what you have learned.|&check;|
+	|2.|Your portfolio consists of materials that you either realized individually, or in case of a group effort, a clear statement of what your contribution is in this group effort.|&check;|
+	|3.|The (digital) portfolio is written in a very easily accessible way.|&check;|
+	|4.|The main document is a reader's guide (index) that shortly introduces your contributions and links to pages where the contributions are described in detail |&check;|
+	|5.|Every contribution should be accessible from the reader's guide in a single click.|&check;|
+	|6.|The portfolio consists of links to the Python Notebooks or other evidence material about your contribution on the project that you have finished yourself. |&check;|
+  
+</details>
+
+
 <h2><b>0. Obligatory criteria</b></h2>
     
 <details>

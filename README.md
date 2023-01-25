@@ -374,14 +374,15 @@ Hier moest ik nog meer onderzoek naar doen om dit goed werkend te krijgen maar w
 Omdat ik tijdens het container project vooral bezig ben geweest met het maken van een visualisatie app heb ik niet veel nieuwe dingen kunnen toevoegen aan het paper, om mezelf wel nuttig te maken voor de groep was mijn taak vooral om andere te helpen met hun onderdelen. Ik heb gezorgd voor ondersteuning door mate van screenshots van de visuele applicatie om onderdelen zoals "onze regels voor het inboxen van containers" te kunnen laten zien in afbeeldingen.<br> Ik heb ongeveer 1 derde / de helft van de paper opnieuw geschreven met ander taalgebruik zodat dat door het hele document consistent was. Dingen die niet helder waren of waar ik het niet zeker over was, plaatste ik comments bij voor andere om mee in discussie te gaan.
 Mijn bijdrage aan het paper samengevat:
     
-- Meeste opmaak
-- Verwoorden van alinea's, weghalen van persoonlijke voornaamwoorden (ik, we) etc.
+- Alle onderdelen die over visualisatie gingen
+- 3 alineas van de discussie geschreven.
+- De hoofdstukken Onderzoeksopzet, Dataverzameling, Verzamelde data, Visualisatie resultaten, Analyse compleet herschreven om het consistent te maken.- 
+- Verwoorden van alinea's van andere, weghalen van persoonlijke voornaamwoorden (ik, we) etc.
 - Spelling, grammatica en opmerkingen verbeteren.
 - Opmerkingen met pointers hoe iemand zijn stuk zou kunnen verbeteren.
 - Aanbevelen van cruciale toevoegingen, zoals tijd die het model nodig heeft om te voorspellen, het tonen van de cutoff van het model wanneer die het optimum heeft bereikt.
-- De hoofdstukken Onderzoeksopzet, Dataverzameling, Verzamelde data, Visualisatie resultaten, Analyse compleet herschreven om het consistent te maken.
 - Discussieren met de andere over onnodige alinea's, denk hierbij aan alineas die uitleggen wat RL of een reward functie is/ doet.
-- 3 onderdelen van de discussie geschreven.
-- Alle dingen die over de visualisatie gingen
+- Meeste opmaak
+
     
 </details>

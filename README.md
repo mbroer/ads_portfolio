@@ -68,6 +68,11 @@ Student has been working on at least three of the following subjects:
 Tijdens het Foodboost project heeft onze projectgroep zich bezig gehouden met het voorspellen of een eindgebruiker een gerecht wel of niet lekker zou vinden, met als einddoel om een applicatie te maken die een gebruiker kon helpen een weekmenu samen te stellen voor zijn noddigheden, bijvoorbeeld een dieetdoel. Het is namelijk zeer lastig voor iemand om zelf een gevarieerd weekmenu samen te stellen, dit komt omdat de meeste mensen maar 6/7 favoriete gerechten hebben die ze willen eten. Dit wilde onze groep oplossen met een applicatie. 
 <br>
 In deze applicatie zouden restricties zitten zoals allergiën, of het een hoofdgerecht/ dessert is (thema zoals sinterklaas/ halloween), of voorkeuren zoals geen zout. De hoofdvraag gedurende het project was: <b>Hoe kunnen we een app maken waarmee gebruikers een persoonlijk advies krijgen wat ze deze week gaan eten, zodat ze makkelijker tot een betere keuze kunnen komen.</b><br>
+	
+De deelvragen voor het foodboost project waren:
+1. Hoe moeten we een app maken om gebruikers hun favoriete recepten te laten selecteren?
+2. Welke methodes kunnen we gebruiken om te voorspellen of de eindgebruiker een recept wel of niet lekker gaat vinden?
+3. Kunnen we ingredienten groeperen voor betere voorspellingen?
     
 Mijn persoonlijke einddoel was om uiteindelijk de applicatie te bouwen, met het model draaiend op de achtergrond.
 Deze applicatie is gerealiseerd, zonder communicatie met het uiteindelijke model, omdat hier geen tijd meer voor was.
@@ -78,6 +83,12 @@ De sourcecode van de applicatie is hier terug te vinden:
 <h4>1.1.2 Containers</h4>
 Tijdens het Container project heeft onze projectgroep zich bezig gehouden met onderzoeken en ontwikkelen van een schaalbare methode om een optimale indeling van containers op een grid te genereren. Het schaalbare gedeelte is nodig omdat het model ook moet werken bij grotere kades of in een situatie wanneer er met meer container wordt gewerkt dan verwacht. De hoofdvraag gedurende dit project was: <b>Hoe kunnen we met een lijst van containers, een model trainen om die in de beste opstelling neer te zetten op de kade, zodat de stackers, met zo min mogelijk verplaatsingen, de containers naar de schepen kunnen verplaatsen.</b>
     
+De deelvragen voor het containers project waren:
+1. Welke methode is hiervoor het beste?
+2. Kunnen we dit schaalbaar maken?
+3. Hoe kunnen we de opstelling van het model evalueren?
+4. Hoe gaan we de uitkomst visualiseren?
+	
 Mijn persoonlijke eindproduct was het realiseren van een applicatie die visueel het resultaat van het model kon laten zien.
     
 De sourcecode van de applicatie is hier terug te vinden:
@@ -123,6 +134,26 @@ Ik zou dit zelf doen door containers te verplaatsen, hiervoor is al een moves fi
 
 <details>
     <summary><h3>1.3 Conclusions</h3></summary>
+	
+	<h4>1.3.1 Foodboost</h4>
+De conclusies voor het foodboost project waren:
+	
+1. Hoe moeten we een app maken om gebruikers hun favoriete recepten te laten selecteren?
+Gedaan via een quiz-applicatie. Je krijgt steeds 4 recepten op je scherm, daarvan klik je er één aan, en na x keer selecteren krijg je je weekmenu te zien.
+	
+2. Welke methodes kunnen we gebruiken om te voorspellen of de eindgebruiker een recept wel of niet lekker gaat vinden?
+
+	
+3. Kunnen we ingredienten groeperen voor betere voorspellingen?
+    
+	
+	
+	
+1. 
+2. Welke methodes kunnen we gebruiken om te voorspellen of de eindgebruiker een recept wel of niet lekker gaat vinden?
+	
+	
+	<h4>1.3.2 Containers</h4>
     
 </details>
 

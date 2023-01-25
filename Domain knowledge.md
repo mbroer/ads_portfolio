@@ -5,6 +5,8 @@ Naast datacamp heb ik gedurende de minor veel literatuuronderzoek gedaan, in een
 
 <h3>3.2 Literature research</h3>
 
+%%%
+
 <h4>3.2.1 Foodboost</h4>
 
 <h4>3.2.2 Cofano</h4>

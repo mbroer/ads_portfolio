@@ -1,6 +1,5 @@
 <h1 align="center">Portfolio</h1>
-<h2 align="center">Applied Data Science</h2>
-<p align="center">Michael Broer, 20105533</p>
+<p align="center">Applied Data Science<br>Michael Broer, 20105533</p>
 <br>
 
 

@@ -26,9 +26,11 @@ Hier ben ik zelf verder niet bij betrokken geweest, wel hebben we hier samen als
 Ik ben hier zelf niet verder mee gegaan, maar heb wel onderzocht wat precies het verschil was.
 
 Van wat ik begreep is PPO vrijwel hetzelfde als AC2, het zijn beide RL algoritmes om een agent te trainen. AC2 werk op een value-based approach en PPO met een policy-based approach. AC2 update de policy na een evaluatie van een specifieke actie, terwijl PPO dat direct doet. Ook was PPO een stuk sneller vanwege parallel threads. Ook na zelfstandig testen bleek het dat AC2 veel meer samples nodig had dan PPO om op de zelfde effecifiteit te komen.<br>
-Hoe een groepslid het opsomde was dat A2C aggressiefer is.
+Hoe Hidde het opsomde was dat A2C "aggressiefer" is.
 	
 <h3>2.2 Configuring a Model</h3>
+
+Het configureren van de modellen liet ik meestal over aan de groepsleden die daar meer verstand van hadden, uiteraard heb ik zelf ook geprobeerd om modellen te configureren bijvoorbeeld voor het ingredieënten groeperen:
     
 
 <h3>2.3 Training a Model</h3>

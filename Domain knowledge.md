@@ -33,6 +33,6 @@ Een aantal papers waar ik mij in heb verdiept voor reinforcement learning:<br>
 Beide papers gaan over containerproblemen, sommige van deze informatie was niet relevant voor ons probleem, maar dit spoorde ons wel aan om te gaan werken met een reward/penalty systeem. Rewards voor bijvoorbeeld het plaatsen van een container op een container van dezelfde kleur, en een penalty voor het inboxen van een container.
 
 <h3>3.3 Explanation of Terminology, jargon and definitions</h3>
-Hierboven uitgelegd wat RL inhoudt, en wat reward/penalty systeem is etc. In de rest van het portfolio staan ook andere dingen uitgelegd
+Dit kan ik niet in een los hoofdstuk plaatsen, ik heb in meerdere hoofdstukken in dit portfolio uitgelegd wat ik met bepaalde onderdelen bedoel, een voorbeeld hiervan is hierboven. Ik heb uitgelegd wat RL inhoudt, en wat reward/penalty systeem is etc.
     
 ## [&#8592; Terug naar index](https://github.com/mbroer/ads_portfolio/blob/main/README.md)

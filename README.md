@@ -197,6 +197,11 @@ Hieronder staan alle scrum tickets op mijn naam die ik heb afgerond. Bij de mees
 In dit hoofdstuk beschrijf ik een aantal modellen die ik gedurende de minor heb gebruikt.
 	
 	
+	<h4>2.1.1 Foodboost</h4>
+	
+	
+	<h4>2.1.2 Cofano</h4>
+	
     
 </details>
 <details>

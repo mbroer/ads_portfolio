@@ -483,6 +483,7 @@ Mijn bijdrage aan het paper samengevat:
 - Aanbevelen van cruciale toevoegingen, zoals tijd die het model nodig heeft om te voorspellen, het tonen van de cutoff van het model wanneer die het optimum heeft bereikt.
 - Discussieren met de andere over onnodige alinea's, denk hierbij aan alineas die uitleggen wat RL of een reward functie is/ doet.
 - Meeste opmaak
+- Bijlage
 
     
 </details>

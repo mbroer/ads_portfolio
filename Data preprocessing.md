@@ -22,7 +22,7 @@ Screenshot resultaat:
 4.2.1 FoodBoost simulated users
 
 Ik ben begonnen met het opschonen van de bestaande dataframes, te zien in [ads_cleaner.py](https://github.com/mbroer/ads_portfolio/blob/main/apps/foodboost/simulated%20users/ads_cleaner.py).  Ik heb onnodige kolommen gedropt, zoals stars, url en image. Hierna heb ik dezelfde logica gebruikt als in het vorige hoofdstuk om deze dataframes op elkaar te joinen. Ook heb ik ervoor gezorgd dat kolommen die meerdere keren voorkwamen te droppen.<br>
-Outliers heb ik handmatig verwijderd, dit waren bijvoorbeeld recepten waarvan ingrediënten niet klopte, denk hierbij aan een ingrediënt met de string: "ham en kaas" (2 ingredienten in 1 ingredient). Values met HTML heb ik vervangen door lege string values. Zelfde geld voor speciale tekens zoals '(, ), {, }, [, ], +, & ' etc 
+Outliers heb ik handmatig verwijderd, dit waren bijvoorbeeld recepten waarvan ingrediënten niet klopte, denk hierbij aan een ingrediënt met de string: "ham en kaas" (2 ingredienten in 1 ingredient). Values met HTML heb ik vervangen door lege string values. Zelfde geldt voor speciale tekens zoals '(, ), {, }, [, ], +, & ' etc.
 
 <h3>4.3 Data preparation</h3>
 4.3.1 FoodBoost simulated users

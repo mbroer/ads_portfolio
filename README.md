@@ -222,9 +222,11 @@ In dit hoofdstuk beschrijf ik een aantal modellen die ik gedurende de minor heb 
 <h4>Visualiseren van output model</h4>
 Waar onze projectgroep het meeste aan had, was het visualiseren van de output van ons model, in het begin was het simpel om dit handmatig te doen met een 3x3 en 3x3 grid, maar toen we gingen testen op grids van 5x8x5 werd dit onmogelijk. Ik heb toen een feature gemaakt die gemaakt die gemakkelijk een array kan omzetten naar een 3d visualisatie:
 	  
-![screenshot](https://github.com/mbroer/ads_portfolio/blob/main/output/cofano/Screenshot_20230125_105724_WhatsApp.jpg)
+![screenshot](https://github.com/mbroer/ads_portfolio/blob/main/output/cofano/Screenshot_20230125_105724_WhatsApp.jpg =250x250)
 	  
-![screenshot](https://github.com/mbroer/ads_portfolio/blob/main/output/cofano/IMG-20230124-WA0000.jpg)
+resultaat:
+	  
+![screenshot](https://github.com/mbroer/ads_portfolio/blob/main/output/cofano/IMG-20230124-WA0000.jpg =250x250)
 
 	  
 	  

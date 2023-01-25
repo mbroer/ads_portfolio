@@ -69,13 +69,13 @@ Ik zou dit zelf doen door containers te verplaatsen, hiervoor is al een moves fi
 <h4>1.3.1 Foodboost</h4>
 De conclusies voor het foodboost project waren:
 	
-1. Hoe moeten we een app maken om gebruikers hun favoriete recepten te laten selecteren?<br>
+<b>1. Hoe moeten we een app maken om gebruikers hun favoriete recepten te laten selecteren?</b><br>
 Gedaan via een quiz-applicatie. Je krijgt steeds 4 recepten op je scherm, daarvan klik je er één aan, en na x keer selecteren krijg je je weekmenu te zien. Deze applicatie is gemaakt in VUE, hiervoor is gekozen omdat ik al ervaring had met dat framework, en vanwege de realtime page updates die het ondersteund.
 	
-2. Welke methodes kunnen we gebruiken om te voorspellen of de eindgebruiker een recept wel of niet lekker gaat vinden?<br>
+<b>2. Welke methodes kunnen we gebruiken om te voorspellen of de eindgebruiker een recept wel of niet lekker gaat vinden?</b><br>
 
 	
-3. Kunnen we ingredienten groeperen voor betere voorspellingen?<br>
+<b>3. Kunnen we ingredienten groeperen voor betere voorspellingen?</b><br>
     
 
 <h4>1.3.2 Containers</h4>

@@ -2,7 +2,7 @@
 <p align="center">Applied Data Science<br>Michael Broer, 20105533</p>
 <br>
 
-<p align="center">Dit portfolio volgt de structuur van de scorings rubriek.</p>
+<p align="center">Dit portfolio volgt de structuur van het Scoring rubrics document.</p>
 
 
 <details>

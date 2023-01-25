@@ -60,23 +60,7 @@ Student has been working on at least three of the following subjects:
 
 ## [1. Research Project](https://github.com/mbroer/ads_portfolio/blob/main/Research%20Project.md)
 ## [2. Predictive Analytics](https://github.com/mbroer/ads_portfolio/blob/main/Predictive%20Analytics.md)
-
-<h2><b>3. Domain knowledge</b></h2> <!-- skippen? -->
-<details>
-    <summary><h3>3.1 Introduction of the subject field</h3></summary>
-    
-</details>
-<details>
-    <summary><h3>3.2 Literature research</h3></summary>
-    
-</details>
-
-<details>
-    <summary><h3>3.3 Explanation of Terminology, jargon and definitions</h3></summary>
-    
-</details>
-
-
+## [3. Domain Knowledge](https://github.com/mbroer/ads_portfolio/blob/main/Domain%20Knowledge.md)
 
 <h2><b>4. Data preprocessing</b></h2>
 <details>

@@ -37,6 +37,8 @@ Hieronder heb ik een screenshot toegevoegt van alle datacamp courses die ik tijd
 <details><summary><h3><del>Evaluation on the group project as a whole.</del></h3></summary>komen te vervallen</details>
 
 </details>
+
+</hr>
     
 <h2><b>1. Research project</b></h2>
 

@@ -1,3 +1,5 @@
+<div align="center">
+
 <h1 align="center">Portfolio</h1>
 <p align="center">Applied Data Science<br>Michael Broer, 20105533</p>
 <br>
@@ -63,3 +65,6 @@ Student has been working on at least three of the following subjects:
 ## [3. Domain Knowledge](https://github.com/mbroer/ads_portfolio/blob/main/Domain%20knowledge.md)
 ## [4. Data Preprocessing](https://github.com/mbroer/ads_portfolio/blob/main/Data%20preprocessing.md)
 ## [5. Communication](https://github.com/mbroer/ads_portfolio/blob/main/Communication.md)
+
+</div>
+

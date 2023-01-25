@@ -40,6 +40,8 @@ De sourcecode van de applicatie is hier terug te vinden:
 <h4>1.2.1 Foodboost app</h4>
 Mijn persoonlijke eindproduct voor dit product, namelijk de quiz applicatie, kan verbeterd worden in de toekomst door het uiteindelijke model te implementeren in de applicatie. Op dit moment geeft de applicatie een pseudo-random lijst terug, gebaseerd op het thema van de gerechten die je hebt geselecteerd. De reden hiervoor is dat het model niet optijd af was om dit te implementeren in de applcatie voor de externe presentatie. Om dit te realiseren zou het model aangepast moeten worden zodat het een x aantal recepten kan accepteren en op basis daarvan de index terugstuurd naar de applicatie, zodat deze die kan tonen.
 	
+Een algemene aanbeveling zou kijken hoe we de restricities in het model kunnen verwerken, zoals allergieën, of voorkeuren.	
+	
 <h4>1.2.2 Foodboost user-gen</h4>
 De foodboost user-gen applicatie kan worden verbeterd door een GUI in de applicatie te bouwen. Nu is het nog een command line applicatie. Ook kan het groepeer gedeelte voor de ingredieënten verbeterd worden door te onderzoeken of FuzzyWuzzy hier wel de beste oplossing voor is, en of de simularity score wel optimaal is.
     

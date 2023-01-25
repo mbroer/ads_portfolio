@@ -42,13 +42,13 @@ Hieronder heb ik een screenshot toegevoegt van alle datacamp courses die ik tijd
     <summary><h2><b>Subjects</b></h2></summary>
 Student has been working on at least three of the following subjects:
 	
-|Select 3 subjects|Selected|
+|Select 3 subjects|Included|
 |---|---|
-|Research project|[x]|
-|Predictive analysis|[]|
-|Domain knowledge|[]|
-|Data preprocessing|[]|
-|Communication|[x]|
+|Research project|:white_check_mark:|
+|Predictive analysis|:white_check_mark:|
+|Domain knowledge|:white_check_mark:|
+|Data preprocessing|:white_check_mark:|
+|Communication|:heavy_check_mark:|
 	
 	
 </details>

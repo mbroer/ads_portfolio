@@ -44,10 +44,10 @@ Student has been working on at least three of the following subjects:
 	
 |Select 3 subjects|Included|
 |---|---|
-|Research project|:white_check_mark:|
-|Predictive analysis|:white_check_mark:|
-|Domain knowledge|:white_check_mark:|
-|Data preprocessing|:white_check_mark:|
+|Research project|:heavy_multiplication_x:|
+|Predictive analysis|:heavy_multiplication_x:|
+|Domain knowledge|:heavy_multiplication_x:|
+|Data preprocessing|:heavy_multiplication_x:|
 |Communication|:heavy_check_mark:|
 	
 	

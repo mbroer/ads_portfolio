@@ -196,8 +196,8 @@ Hieronder staan alle scrum tickets op mijn naam die ik heb afgerond. Bij de mees
     <summary><h3>2.1 Selecting a Model</h3></summary>
 In dit hoofdstuk beschrijf ik een aantal modellen die ik gedurende de minor heb gebruikt.
 	
-	
 	<h4>2.1.1 Foodboost</h4>
+	Voor het Foodboost project hebben we gebruik gemaakt van
 	
 	
 	<h4>2.1.2 Cofano</h4>

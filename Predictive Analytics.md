@@ -26,10 +26,10 @@ Over het algemeen is MatrixFactorization een krachtige techniek die een recommen
 <h4>2.4.1 FoodBoost</h4>
 Voor het foodboost project zijn de volgende evaluatie technieken toegepast:
 	
-	* Leave One Out
-	* K-Nearestneighbor clustering
+* Leave One Out
+* K-Nearestneighbor clustering
 	
-	%%%cofano, hoe ik met mijn visualisatie app het model evalueer.
+%%%cofano, hoe ik met mijn visualisatie app het model evalueer.
 	
 <h3>2.5 Visualizing the outcome of a model (explanatory)</h3>
 	

@@ -20,8 +20,8 @@
 	
 </details>
 
-
-<h2><b>Obligatory criteria</b></h2>
+<details>
+    <summary><h2><b>Obligatory criteria</b></h2></summary>
     
 <details>
     <summary><h3>DataCamp Course completion</h3></summary>
@@ -36,6 +36,7 @@ Hieronder heb ik een screenshot toegevoegt van alle datacamp courses die ik tijd
 <details><summary><h3><del>Reflection on own learning objectives.</del></h3></summary>komen te vervallen</details>
 <details><summary><h3><del>Evaluation on the group project as a whole.</del></h3></summary>komen te vervallen</details>
 
+</details>
     
 <h2><b>1. Research project</b></h2>
 

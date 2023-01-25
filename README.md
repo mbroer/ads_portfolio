@@ -226,13 +226,8 @@ Waar onze projectgroep het meeste aan had, was het visualiseren van de output va
 <br>resultaat:<br>
 <img src="https://github.com/mbroer/ads_portfolio/blob/main/output/cofano/IMG-20230124-WA0000.jpg" width="500" height="250">
 	  
-
-	  
-	  
-	  
-	  
-    <h4>Scenario’s inladen en opslaan.</h4>
-    De applicatie kan een scenario inladen en opslaan via json
+<h4>Scenario’s inladen en opslaan.</h4>
+De applicatie kan een scenario inladen en opslaan via json
     
 ![Screenshot json](https://github.com/mbroer/ads_portfolio/blob/main/output/cofano/json.png)
     

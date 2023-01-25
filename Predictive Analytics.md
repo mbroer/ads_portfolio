@@ -15,7 +15,15 @@ Met logistic regression is het mogelijk om te voorspellen of een ingredieënt in
 Omdat met SVM de beste boundary/hyperplane gevonden zou kunnen worden voor de ingredienten, heb ik dit geprobeerd te gebruiken met de foodboost datasets, met het eerder genoemde ingredienten-groepeer programma. Ik had train en test data gemaakt voor 'tomato' en 'onion', bij tomato kreeg ik een Accuracy van ~85% en bij onion was het rond de 90%. Dit was vlak voor de switch naar het container project, dus ik heb hier verder niet meer naar gekeken
 
 <h4>2.1.2 Cofano</h4>
-* Reinforcement learning model
+* AC2, om de iteraties van de container indeling te evalueren.
+Als groep hadden we eerst gekozen om met het AC2 model te werken, dit wilde we gebruiken om te kijken of de actor dan beter getrained kon worden met het reward/ penalty systeem. Bij mijn oplossing had ik mijn states actions en reward penalty systeem opgesteld voor de agent als een 2x2 grid. Hier vertel ik later over.
+
+* PPO, voor vergelijkingen.
+Hier ben ik zelf verder niet bij betrokken geweest, wel hebben we hier samen als groep over overlegt en de andere van de groep zijn hier naartoe geswitched.
+Ik ben hier zelf niet verder mee gegaan, maar heb wel onderzocht wat precies het verschil was.
+
+Van wat ik begreep is PPO vrijwel hetzelfde als AC2, het zijn beide RL algoritmes om een agent te trainen. AC2 werk op een value-based approach en PPO met een policy-based approach. AC2 update de policy na een evaluatie van een specifieke actie, terwijl PPO dat direct doet. Ook was PPO een stuk sneller vanwege parallell threads. Ook na zelfstandig testen bleek het dat AC2 veel meer samples nodig had dan PPO om op de zelfde effecifiteit te komen.<br>
+Hoe een groepslid het opsomde was dat A2C aggressiefer is.
 	
 <h3>2.2 Configuring a Model</h3>
     

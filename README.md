@@ -224,7 +224,7 @@ Waar onze projectgroep het meeste aan had, was het visualiseren van de output va
 	  
 <img src="https://github.com/mbroer/ads_portfolio/blob/main/output/cofano/Screenshot_20230125_105724_WhatsApp.jpg" width="250" height="500">
 <br>resultaat:<br>
-<img src="https://github.com/mbroer/ads_portfolio/blob/main/output/cofano/IMG-20230124-WA0000.jpg" width="250" height="250">
+<img src="https://github.com/mbroer/ads_portfolio/blob/main/output/cofano/IMG-20230124-WA0000.jpg" width="500" height="250">
 	  
 
 	  

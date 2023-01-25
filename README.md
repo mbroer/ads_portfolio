@@ -6,7 +6,7 @@
 
 
 <details>
-    <summary><h3>Knock-out criteria</h3></summary>
+    <summary><h2><b>Knock-out criteria</b></h2></summary>
 	
 |Num.|Criteria|Voldaan|
 |---|---|---|
@@ -21,10 +21,10 @@
 </details>
 
 
-<h2><b>0. Obligatory criteria</b></h2>
+<h2><b>Obligatory criteria</b></h2>
     
 <details>
-    <summary><h3>0.1 DataCamp Course completion</h3></summary>
+    <summary><h3>DataCamp Course completion</h3></summary>
     
 Hieronder heb ik een screenshot toegevoegt van alle datacamp courses die ik tijdens de minor heb gemaakt, de course van 2 Oct was later ingeleverd vanwege persoonlijke omstandigheden, voor de rest is alles op tijd gemaakt.
   
@@ -32,9 +32,9 @@ Hieronder heb ik een screenshot toegevoegt van alle datacamp courses die ik tijd
     
 </details>
 
-<details><summary><h3><del>0.2 Reflection on own contribution to the project.</del></h3></summary>komen te vervallen</details>
-<details><summary><h3><del>0.3 Reflection on own learning objectives.</del></h3></summary>komen te vervallen</details>
-<details><summary><h3><del>0.4 Evaluation on the group project as a whole.</del></h3></summary>komen te vervallen</details>
+<details><summary><h3><del>Reflection on own contribution to the project.</del></h3></summary>komen te vervallen</details>
+<details><summary><h3><del>Reflection on own learning objectives.</del></h3></summary>komen te vervallen</details>
+<details><summary><h3><del>Evaluation on the group project as a whole.</del></h3></summary>komen te vervallen</details>
 
     
 <h2><b>1. Research project</b></h2>

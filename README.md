@@ -367,7 +367,11 @@ Hier moest ik nog meer onderzoek naar doen om dit goed werkend te krijgen maar w
     <summary><h3>5.1 Presentations</h3></summary>
 
 Qua presentaties heb ik niet kunnen bijdragen wat ik had willen doen. Ik heb in totaal maar 2 interne presentaties gepresenteerd, en had een derde voorbereid die niet door is gegaan. Dit komt vooral omdat ik elke maandag ochtend een afspraak heb met mijn fysiotherapeut. Wel heb ik gelukkig kunnen helpen met het maken van slides voor presentaties voor andere. Dit kwam vaak neer op screenshots van de applicaties die ik had gebouwd voor de visualisatie van onderandere het container project.
-	
+
+Hieronder zijn een paar powerpoints die ik heb gepresenteerd of waar ik bij geholpen heb:
+[GitHub](https://github.com/mbroer/ads_portfolio/blob/main/powerpoints/cofano.pdf)
+[GitHub](https://github.com/mbroer/ads_portfolio/blob/main/powerpoints/cofano4.pptx)
+[GitHub](https://github.com/mbroer/ads_portfolio/blob/main/powerpoints/cofano8.pptx)
     
 </details>
 

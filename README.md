@@ -2,6 +2,8 @@
 <p align="center">Applied Data Science<br>Michael Broer, 20105533</p>
 <br>
 
+<p align="center">Dit portfolio volgt de structuur van de scorings rubriek.</p>
+
 
 <details>
     <summary><h3>Knock-out criteria</h3></summary>

@@ -14,11 +14,11 @@ Cofano is een bedrijf dat zich richt op het verbeteren van terminalprocessen. Di
 <h4>3.2.1 Foodboost</h4>
 Voor het Foodboost project heb ik research naar stringmatching gedaan, de papers waar ik de meeste informatie heb opgedaan zijn:<br>
 
-Sri, Mukku & Bhavsar, Rachita & Narooka, Preeti. (2018). String Matching Algorithms. International Journal Of Engineering And Computer Science. 7. 23769-23772. 10.18535/ijecs/v7i3.19. <br>
+<i>Sri, Mukku & Bhavsar, Rachita & Narooka, Preeti. (2018). String Matching Algorithms. International Journal Of Engineering And Computer Science. 7. 23769-23772. 10.18535/ijecs/v7i3.19.</i> <br>
 Uit dit paper ben ik begonnen met het proberen om ingredieënten en tags te groeperen met (E)RKA
 
 en voor Fuzzy heb ik het volgende paper gelezen:
-Senapati, Apurbalal & Mondal, Arunendu & Maji, Soumen. (2022). A Fuzzy String Matching-Based Reduplication with Morphological Attributes. 10.1007/978-981-19-1520-8_14. 
+<i>Senapati, Apurbalal & Mondal, Arunendu & Maji, Soumen. (2022). A Fuzzy String Matching-Based Reduplication with Morphological Attributes. 10.1007/978-981-19-1520-8_14.</i>
 (Hiervoor moet je contact opnemen met de schrijvers)
 
 <h4>3.2.2 Cofano</h4>
@@ -26,9 +26,9 @@ Omdat wij later begonnen dan andere groepen met het container project, hadden we
 reinforcement learning is een techniek waar een agent leert om keuzes te maken doormiddel van rewards en penalties. Het doel van de agent is om een policy te leren waarbij deze de hoogste reward mogelijk krijgt op het einde. Een voorbeeld hiervan is een AI die leert om een highscore te halen in Tetris.<br>
 
 Een aantal papers waar ik mij in heb verdiept voor reinforcement learning:
-Jiang, T., Zeng, B., Wang, Y., & Yan, W. (2021, April). A New Heuristic Reinforcement Learning for Container Relocation Problem. Journal of Physics: Conference Series (Vol. 1873, No. 1, p. 012050). IOP Publishing. doi: 10.1088/1742-6596/1873/1/012050
+<i>Jiang, T., Zeng, B., Wang, Y., & Yan, W. (2021, April). A New Heuristic Reinforcement Learning for Container Relocation Problem. Journal of Physics: Conference Series (Vol. 1873, No. 1, p. 012050). IOP Publishing. doi: 10.1088/1742-6596/1873/1/012050</i> <br>
 
-Hu, H., Wang, F., Xiao, S., Yang, X. (2023). Anti-conflict AGV Path Planning in Automated Container Terminals Based on Multi-agent Reinforcement Learning. International Journal of Production Research, 61(1), 65-80. doi: 10.1080/00207543.2021.1998695
+<i>Hu, H., Wang, F., Xiao, S., Yang, X. (2023). Anti-conflict AGV Path Planning in Automated Container Terminals Based on Multi-agent Reinforcement Learning. International Journal of Production Research, 61(1), 65-80. doi: 10.1080/00207543.2021.1998695</i>
 
 Beide papers gaan over containerproblemen, sommige van deze informatie was niet relevant voor ons probleem, maar dit spoorde ons wel aan om te gaan werken met een reward/penalty systeem. Rewards voor bijvoorbeeld het plaatsen van een container op een container van dezelfde kleur, en een penalty voor het inboxen van een container.
 

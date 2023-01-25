@@ -5,14 +5,14 @@ Michael Broer, 20105533
 <details>
     <summary><h3>Knock-out criteria</h3></summary>
 	
-|Num|unchecked|crossed|
+|No.|Task|Voldaan|
 |---|---|---|
-|1.|The contents of your personal portfolio reflect your contribution to the project, your abilities and what you have learned.|&check;|
-|2.|Your portfolio consists of materials that you either realized individually, or in case of a group effort, a clear statement of what your contribution is in this group effort.|&check;|
-|3.|The (digital) portfolio is written in a very easily accessible way.|&check;|
-|4.|The main document is a reader's guide (index) that shortly introduces your contributions and links to pages where the contributions are described in detail |&check;|
-|5.|Every contribution should be accessible from the reader's guide in a single click.|&check;|
-|6.|The portfolio consists of links to the Python Notebooks or other evidence material about your contribution on the project that you have finished yourself. |&check;|
+|1.|The contents of your personal portfolio reflect your contribution to the project, your abilities and what you have learned.|:heavy_check_mark:|
+|2.|Your portfolio consists of materials that you either realized individually, or in case of a group effort, a clear statement of what your contribution is in this group effort.|:heavy_check_mark:|
+|3.|The (digital) portfolio is written in a very easily accessible way.|:heavy_check_mark:|
+|4.|The main document is a reader's guide (index) that shortly introduces your contributions and links to pages where the contributions are described in detail |:heavy_check_mark:|
+|5.|Every contribution should be accessible from the reader's guide in a single click.|:heavy_check_mark:|
+|6.|The portfolio consists of links to the Python Notebooks or other evidence material about your contribution on the project that you have finished yourself. |:heavy_check_mark:|
   
 </details>
 

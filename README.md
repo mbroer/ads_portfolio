@@ -139,7 +139,7 @@ Ik zou dit zelf doen door containers te verplaatsen, hiervoor is al een moves fi
 De conclusies voor het foodboost project waren:
 	
 1. Hoe moeten we een app maken om gebruikers hun favoriete recepten te laten selecteren?
-Gedaan via een quiz-applicatie. Je krijgt steeds 4 recepten op je scherm, daarvan klik je er één aan, en na x keer selecteren krijg je je weekmenu te zien.
+Gedaan via een quiz-applicatie. Je krijgt steeds 4 recepten op je scherm, daarvan klik je er één aan, en na x keer selecteren krijg je je weekmenu te zien. Deze applicatie is gemaakt in VUE, hiervoor is gekozen omdat ik al ervaring had met dat framework, en vanwege de realtime page updates die het ondersteund.
 	
 2. Welke methodes kunnen we gebruiken om te voorspellen of de eindgebruiker een recept wel of niet lekker gaat vinden?
 
@@ -149,11 +149,8 @@ Gedaan via een quiz-applicatie. Je krijgt steeds 4 recepten op je scherm, daarva
 	
 	
 	
-1. 
-2. Welke methodes kunnen we gebruiken om te voorspellen of de eindgebruiker een recept wel of niet lekker gaat vinden?
 	
-	
-	<h4>1.3.2 Containers</h4>
+<h4>1.3.2 Containers</h4>
     
 </details>
 
@@ -199,7 +196,9 @@ Hieronder staan alle scrum tickets op mijn naam die ik heb afgerond. Bij de mees
 In dit hoofdstuk beschrijf ik een aantal modellen die ik gedurende de minor heb gebruikt.
 	
 	<h4>2.1.1 Foodboost</h4>
-	Voor het Foodboost project hebben we gebruik gemaakt van
+	Voor het Foodboost project hebben we gebruik gemaakt van de volgende modellen:
+* MatrixFactorization, voor het recommender systeem
+* kmeans clustering
 	
 	
 	<h4>2.1.2 Cofano</h4>

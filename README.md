@@ -26,7 +26,7 @@ ___
     <summary><h4><b>Obligatory criteria</b></h4></summary>
     
 <details>
-    <summary><h6>DataCamp Course completion</h6></summary>
+    <summary><h5>DataCamp Course completion</h5></summary>
     
 Hieronder heb ik een screenshot toegevoegt van alle datacamp courses die ik tijdens de minor heb gemaakt, de course van 2 Oct was later ingeleverd vanwege persoonlijke omstandigheden, voor de rest is alles op tijd gemaakt.
   
@@ -34,9 +34,9 @@ Hieronder heb ik een screenshot toegevoegt van alle datacamp courses die ik tijd
     
 </details>
 
-<details><summary><h5><del>Reflection on own contribution to the project.</del></h5></summary>komen te vervallen</details>
-<details><summary><h5><del>Reflection on own learning objectives.</del></h5></summary>komen te vervallen</details>
-<details><summary><h5><del>Evaluation on the group project as a whole.</del></h5></summary>komen te vervallen</details>
+<details><summary><h6><del>Reflection on own contribution to the project.</del></h6></summary>komen te vervallen</details>
+<details><summary><h6><del>Reflection on own learning objectives.</del></h6></summary>komen te vervallen</details>
+<details><summary><h6><del>Evaluation on the group project as a whole.</del></h6></summary>komen te vervallen</details>
 
 ___
 	

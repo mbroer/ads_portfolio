@@ -32,7 +32,7 @@ Mijn persoonlijke eindproduct was het realiseren van een applicatie die visueel 
 De sourcecode van de applicatie is hier terug te vinden:
 [GitHub](https://github.com/mbroer/ads_portfolio/tree/main/apps/cofano)
         
-1.2 Evaluation</h3>
+<h3>1.2 Evaluation</h3>
     
 <h4>1.2.1 Foodboost app</h4>
 Mijn persoonlijke eindproduct voor dit product, namelijk de quiz applicatie, kan verbeterd worden in de toekomst door het uiteindelijke model te implementeren in de applicatie. Op dit moment geeft de applicatie een pseudo-random lijst terug, gebaseerd op het thema van de gerechten die je hebt geselecteerd. De reden hiervoor is dat het model niet optijd af was om dit te implementeren in de applcatie voor de externe presentatie. Om dit te realiseren zou het model aangepast moeten worden zodat het een x aantal recepten kan accepteren en op basis daarvan de index terugstuurd naar de applicatie, zodat deze die kan tonen.

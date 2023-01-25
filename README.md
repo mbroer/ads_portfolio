@@ -6,7 +6,7 @@
 
 
 <details>
-    <summary><h2><b>Knock-out criteria</b></h2></summary>
+    <summary><h4><b>Knock-out criteria</b></h2></summary>
 	
 |Num.|Criteria|Voldaan|
 |---|---|---|
@@ -23,10 +23,10 @@ ___
 </details><!--end ko-->
 
 <details>
-    <summary><h2><b>Obligatory criteria</b></h2></summary>
+    <summary><h4><b>Obligatory criteria</b></h4></summary>
     
 <details>
-    <summary><h3>DataCamp Course completion</h3></summary>
+    <summary><h5>DataCamp Course completion</h5></summary>
     
 Hieronder heb ik een screenshot toegevoegt van alle datacamp courses die ik tijdens de minor heb gemaakt, de course van 2 Oct was later ingeleverd vanwege persoonlijke omstandigheden, voor de rest is alles op tijd gemaakt.
   
@@ -34,16 +34,16 @@ Hieronder heb ik een screenshot toegevoegt van alle datacamp courses die ik tijd
     
 </details>
 
-<details><summary><h3><del>Reflection on own contribution to the project.</del></h3></summary>komen te vervallen</details>
-<details><summary><h3><del>Reflection on own learning objectives.</del></h3></summary>komen te vervallen</details>
-<details><summary><h3><del>Evaluation on the group project as a whole.</del></h3></summary>komen te vervallen</details>
+<details><summary><h5><del>Reflection on own contribution to the project.</del></h5></summary>komen te vervallen</details>
+<details><summary><h5><del>Reflection on own learning objectives.</del></h5></summary>komen te vervallen</details>
+<details><summary><h5><del>Evaluation on the group project as a whole.</del></h5></summary>komen te vervallen</details>
 
 ___
 	
 </details><!--end obligatory-->
 
 <details>
-    <summary><h2><b>Subjects</b></h2></summary>
+    <summary><h4><b>Subjects</b></h4></summary>
 Student has been working on at least three of the following subjects:
 	
 |Select 3 subjects|Included|

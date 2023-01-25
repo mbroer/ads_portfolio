@@ -13,7 +13,8 @@ Michael Broer, 20105533
 |4.|The main document is a reader's guide (index) that shortly introduces your contributions and links to pages where the contributions are described in detail |:heavy_check_mark:|
 |5.|Every contribution should be accessible from the reader's guide in a single click.|:heavy_check_mark:|
 |6.|The portfolio consists of links to the Python Notebooks or other evidence material about your contribution on the project that you have finished yourself. |:heavy_check_mark:|
-  
+<br>
+	
 </details>
 
 

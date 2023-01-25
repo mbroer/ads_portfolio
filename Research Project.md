@@ -79,6 +79,12 @@ Gedaan via een quiz-applicatie. Je krijgt steeds 4 recepten op je scherm, daarva
     
 
 <h4>1.3.2 Containers</h4>
+De conclusies voor het container project waren:
+
+<b>1. Welke methode is hiervoor het beste?</b><br>
+<b>2. Kunnen we dit schaalbaar maken?</b><br>
+<b>3. Hoe kunnen we de opstelling van het model evalueren?</b><br>
+<b>4. Hoe gaan we de uitkomst visualiseren?</b><br>
     
 
 <h3>1.4 Planning</h3>

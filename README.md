@@ -369,9 +369,10 @@ Hier moest ik nog meer onderzoek naar doen om dit goed werkend te krijgen maar w
 Qua presentaties heb ik niet kunnen bijdragen wat ik had willen doen. Ik heb in totaal maar 2 interne presentaties gepresenteerd, en had een derde voorbereid die niet door is gegaan. Dit komt vooral omdat ik elke maandag ochtend een afspraak heb met mijn fysiotherapeut. Wel heb ik gelukkig kunnen helpen met het maken van slides voor presentaties voor andere. Dit kwam vaak neer op screenshots van de applicaties die ik had gebouwd voor de visualisatie van onderandere het container project.
 
 Hieronder zijn een paar powerpoints die ik heb gepresenteerd of waar ik bij geholpen heb:
-[GitHub](https://github.com/mbroer/ads_portfolio/blob/main/powerpoints/cofano.pdf)
-[GitHub](https://github.com/mbroer/ads_portfolio/blob/main/powerpoints/cofano4.pptx)
-[GitHub](https://github.com/mbroer/ads_portfolio/blob/main/powerpoints/cofano8.pptx)
+[Foodboost usergen](https://github.com/mbroer/ads_portfolio/blob/main/powerpoints/FOODBOOST%2019-09-2022%20intern%20pres.pptx)<br>
+[Cofano](https://github.com/mbroer/ads_portfolio/blob/main/powerpoints/cofano.pdf)<br>
+[Cofano](https://github.com/mbroer/ads_portfolio/blob/main/powerpoints/cofano4.pptx)<br>
+[Cofano app demo](https://github.com/mbroer/ads_portfolio/blob/main/powerpoints/cofano8.pptx)<br>
     
 </details>
 

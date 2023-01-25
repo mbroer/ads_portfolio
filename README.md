@@ -38,8 +38,6 @@ Hieronder heb ik een screenshot toegevoegt van alle datacamp courses die ik tijd
 
 </details>
 
-</hr>
-
 ___
     
 <h2><b>1. Research project</b></h2>

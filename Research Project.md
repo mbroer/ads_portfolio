@@ -18,6 +18,14 @@ Deze applicatie heb ik zelfstandig gemaakt.
 
 De sourcecode van de applicatie is hier terug te vinden:
 [GitHub](https://github.com/mbroer/ads_portfolio/tree/main/apps/foodboost/quiz)
+
+  <details>
+    <summary><h4>Screensots app</h4></summary>
+    
+![Demo app: (.mp4 download)](https://github.com/mbroer/ads_portfolio/blob/main/output/foodboost/Untitled.mp4)
+    
+  </details>
+
             
 <h4>1.1.2 Containers</h4>
 Tijdens het Container project heeft onze projectgroep zich bezig gehouden met onderzoeken en ontwikkelen van een schaalbare methode om een optimale indeling van containers op een grid te genereren. Het schaalbare gedeelte is nodig omdat het model ook moet werken bij grotere kades of in een situatie wanneer er met meer container wordt gewerkt dan verwacht. De hoofdvraag gedurende dit project was: <b>Hoe kunnen we met een lijst van containers, een model trainen om die in de beste opstelling neer te zetten op de kade, zodat de stackers, met zo min mogelijk verplaatsingen, de containers naar de schepen kunnen verplaatsen.</b>

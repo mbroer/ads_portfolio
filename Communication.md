@@ -27,3 +27,5 @@ Mijn bijdrage aan het paper samengevat:
 - Discussieren met de andere over onnodige alinea's, denk hierbij aan alineas die uitleggen wat RL of een reward functie is/ doet.
 - Meeste opmaak
 - Bijlage
+
+## [&#8592; Terug naar index](https://github.com/mbroer/ads_portfolio/blob/main/README.md)

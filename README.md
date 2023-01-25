@@ -1,6 +1,5 @@
 <h1 align="center">Portfolio</h1>
 <p align="center">Applied Data Science<br>Michael Broer, 20105533</p>
-<br>
 
 <details align="center">
     <summary><h4><b>Opmerkingen</b></h2></summary>

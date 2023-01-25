@@ -38,6 +38,20 @@ Hieronder heb ik een screenshot toegevoegt van alle datacamp courses die ik tijd
 
 </details>
 
+<details>
+    <summary><h2><b>Subjects</b></h2></summary>
+Student has been working on at least three of the following subjects:
+|Select 3 subjects|Selected|
+|---|---|
+|Research project|[x]|
+|Predictive analysis|[]|
+|Domain knowledge|[]|
+|Data preprocessing|[]|
+|Communication|[x]|
+	
+	
+</details>
+
 ___
     
 <h2><b>1. Research project</b></h2>

@@ -3,6 +3,12 @@
 Voor de eerste periode heb ik mij vooral bezig gehouden met de Datacamp courses. Dit komt omdat ik zelf nog niet eerder, serieus bezig ben geweest met datascience. Deze minor was dus ook een enorme uitdaging. Ook ben ik bij de meeste courses geweest, en indien ik niet fysiek aanwezig kon zijn, heb ik altijd de powerpoints bestudeerd.
 Naast datacamp heb ik gedurende de minor veel literatuuronderzoek gedaan, in een poging om beter mijn groepje te kunnen helpen. De meeste groepsleden doen de opleiding hogere wiskunde, dus voor hen ging het wat sneller.
 
+h4>3.1.1 Foodboost</h3>
+Voor het Foodboost project waren we als groep vrij om te kiezen wat we wilde bereiken, er was geen vast doel. Wij hadden besloten als groep om te kijken of wij een applicatie konden maken die een gebruiker een gevarieerd weekmenu kon aanbieden met recepten die hij/zij lekker zou vinden. Met restricties in gedachte zoals allergieën.
+
+<h4>3.1.2 Cofano</h3>
+Cofano is een bedrijf dat zich richt op het verbeteren van terminalprocessen. Dit omvat het efficiënt afhandelen van de binnenvaartschepen die containers afleveren op de kade van een terminal, en het optimaliseren van de verdere verwerking van deze containers totdat ze worden opgehaald door zeevaartschepen. Het bedrijf richt zich hierbij op het minimaliseren van wachttijden voor schepen aan de kade om kosten te besparen door het optimaliseren van de in- en aflaadprocessen. Hier springen wij in om te zoeken naar een oplossing voor dit probleem.
+
 <h3>3.2 Literature research</h3>
 
 %%%

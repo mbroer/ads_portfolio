@@ -5,6 +5,7 @@ In dit hoofdstuk beschrijf ik een aantal modellen die gedurende de minor zijn ge
 	
 <h4>2.1.1 Foodboost</h4>
 Voor het Foodboost project hebben we gebruik gemaakt van de volgende modellen:<br>
+
 * MatrixFactorization, voor het recommender systeem.<br> Hiervoor is gekozen omdat het vaak gebruikt wordt voor het maken van recommender systemen. Dit komt omdat het effectief grote en schaarse data kan verwerken. Door de users en recepten in het product te decompenseren als user-item, kan de matrix de onderliggende patronen en relaties vastleggen. Dit kan leiden tot betere generalisatie en betere voorspellingen, zelfs als deze geen interactiegeschiedenis hebben.<br> Over het algemeen is MatrixFactorization een krachtige techniek die een recommendersysteem en aanbevelingen van hoge kwaliteit kan produceren.
 	
 * Logistic regression, om te proberen om ingrediënten en tags te groeperen.

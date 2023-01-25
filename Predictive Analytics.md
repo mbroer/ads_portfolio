@@ -32,6 +32,8 @@ Hoe Hidde het opsomde was dat A2C "aggressiefer" is.
 
 Het configureren van de modellen liet ik meestal over aan de groepsleden die daar meer verstand van hadden, uiteraard heb ik zelf ook geprobeerd om modellen te configureren bijvoorbeeld voor het ingredieënten groeperen:
     
+omzetten van data naar numerieke data
+
 
 <h3>2.3 Training a Model</h3>
 

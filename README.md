@@ -58,7 +58,7 @@ Student has been working on at least three of the following subjects:
 	
 </details>
 
-[Research Project](https://github.com/mbroer/ads_portfolio/edit/main/Research%20Project.md)
+[<h2><b>1. Research Project</b></h2>](https://github.com/mbroer/ads_portfolio/edit/main/Research%20Project.md)
 
 <h2><b>2. Predictive Analytics</b></h2>
 <details>

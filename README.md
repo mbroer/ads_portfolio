@@ -159,7 +159,9 @@ Gedaan via een quiz-applicatie. Je krijgt steeds 4 recepten op je scherm, daarva
 
 <details>
     <summary><h3>1.4 Planning</h3></summary>
-Ik heb gedurende de projecten gebruik gemaatk van de scrumtool Trello, Ik heb geprobeerd iedereen in de projectgroep aan te moedigen om ook van deze tool gebruik te maken, maar dit is alleen gedurende het eerste project gedaan. Ik ben wel gebruik blijven maken van het scrumboard gedurende het tweede project.<br>
+Ik heb gedurende de projecten gebruik gemaakt van de scrumtool Trello, Ik heb geprobeerd iedereen in de projectgroep aan te moedigen om ook van deze tool gebruik te maken, maar dit is alleen gedurende het eerste project gedaan. Ik ben wel gebruik blijven maken van het scrumboard gedurende het tweede project.<br>
+	
+Verder zijn wij als groep elke maandag en woensdag fysiek op de HHS in Den Haag bij elkaar gekomen, en vrijdag in Delft, om aan de projecten te werken.<br>
 
 Hieronder staan alle scrum tickets op mijn naam die ik heb afgerond. Bij de meeste tickets heb ik een beschrijving van een paar zinnen zodat andere projectleden een beter inzicht kregen van waar ik mee bezig was.</br></br>
 

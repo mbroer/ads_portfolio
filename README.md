@@ -57,7 +57,6 @@ Student has been working on at least three of the following subjects:
 	
 </details>
 
-___
     
 <h2><b>1. Research project</b></h2>
 

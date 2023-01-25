@@ -14,6 +14,7 @@ De deelvragen voor het foodboost project waren:
     
 Mijn persoonlijke einddoel was om uiteindelijk de applicatie te bouwen, met het model draaiend op de achtergrond.
 Deze applicatie is gerealiseerd, zonder communicatie met het uiteindelijke model, omdat hier geen tijd meer voor was.
+Deze applicatie heb ik zelfstandig gemaakt.
 
 De sourcecode van de applicatie is hier terug te vinden:
 [GitHub](https://github.com/mbroer/ads_portfolio/tree/main/apps/foodboost/quiz)
@@ -28,6 +29,7 @@ De deelvragen voor het containers project waren:
 4. Hoe gaan we de uitkomst visualiseren?
 	
 Mijn persoonlijke eindproduct was het realiseren van een applicatie die visueel het resultaat van het model kon laten zien.
+Deze applicatie heb ik zelfstandig gemaakt.
     
 De sourcecode van de applicatie is hier terug te vinden:
 [GitHub](https://github.com/mbroer/ads_portfolio/tree/main/apps/cofano)

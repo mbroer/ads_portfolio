@@ -111,4 +111,4 @@ Met de force validate knop kun je snel alle fout geplaatste containers tonen:
   </details>
 </details>
 
-## [Terug naar index](https://github.com/mbroer/ads_portfolio/blob/main/README.md)
+## [&#8592; Terug naar index](https://github.com/mbroer/ads_portfolio/blob/main/README.md)

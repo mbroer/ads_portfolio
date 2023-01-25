@@ -220,10 +220,10 @@ In dit hoofdstuk beschrijf ik een aantal modellen die ik gedurende de minor heb 
     <summary><h3>Applicatie features</h3></summary>
 	  
 <h4>Visualiseren van output model</h4>
-Waar onze projectgroep het meeste aan had, was het visualiseren van de output van ons model, in het begin was het simpel om dit handmatig te doen met een 3x3 en 3x3 grid, maar toen we gingen testen op grids van 5x8x5 werd dit onmogelijk. Ik heb toen een feature gemaakt die gemaakt die gemakkelijk een array kan omzetten naar een 3d visualisatie:
+Waar onze projectgroep het meeste aan had, was het visualiseren van de output van ons model, in het begin was het simpel om dit handmatig te doen met een 3x3 en 3x3 grid, maar toen we gingen testen op grids van 5x8x5 werd dit onmogelijk. Ik heb toen een feature gemaakt die gemakkelijk een array kan omzetten naar een 3d visualisatie:<br>
 	  
-<img src="https://github.com/mbroer/ads_portfolio/blob/main/output/cofano/Screenshot_20230125_105724_WhatsApp.jpg" width="250" height="250">
-resultaat:
+<img src="https://github.com/mbroer/ads_portfolio/blob/main/output/cofano/Screenshot_20230125_105724_WhatsApp.jpg" width="250" height="500">
+<br>resultaat:<br>
 <img src="https://github.com/mbroer/ads_portfolio/blob/main/output/cofano/IMG-20230124-WA0000.jpg" width="250" height="250">
 	  
 

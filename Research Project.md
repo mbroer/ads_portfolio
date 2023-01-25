@@ -17,7 +17,7 @@ Deze applicatie is gerealiseerd, zonder communicatie met het uiteindelijke model
 Deze applicatie heb ik zelfstandig gemaakt.
 
 De sourcecode van de applicatie is hier terug te vinden:
-[GitHub](https://github.com/mbroer/ads_portfolio/tree/main/apps/foodboost/quiz)
+[GitHub](https://github.com/mbroer/ads_portfolio/tree/main/apps/foodboost/quiz) <br>
 [Demo app: (.mp4 download)](https://github.com/mbroer/ads_portfolio/blob/main/output/foodboost/Untitled.mp4)
             
 <h4>1.1.2 Containers</h4>

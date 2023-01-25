@@ -51,6 +51,7 @@ Voor het foodboost project zijn de volgende evaluatie technieken toegepast:
   Onze groep wilde voor het foodboost project iets visueels maken om uiteindelijk de ouput van het model te kunnen laten zien.
   Hiervoor heb ik in mijn visuele applicatie een functie geschreven die via de index van een recept dat netjes in een lijst kan zetten.
   Hij pakt de huidige dag, en vanaf daar zet het alle gerechten voor die week in een lijst<br>
+  
 ![menu](https://github.com/mbroer/ads_portfolio/blob/main/output/foodboost/overzicht.png)
   
 <h4>Containers app</h4>

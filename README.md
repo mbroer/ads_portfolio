@@ -1,12 +1,10 @@
 <h1 align="center">Portfolio</h1>
 <p align="center">Applied Data Science<br>Michael Broer, 20105533</p>
+<br>
+<p align="center">Om het nakijken zo makkelijk mogelijk te maken, heb ik het portfolio in de structuur van het Scoring rubrics document geschreven, echter is dit document niet chronologisch consistent, dus in sommige onderdelen waar ik over vertel, komt de context pas in een later onderdeel tevoorschijn.
+</p>
 
-<details align="center">
-    <summary><h4><b>Opmerkingen</b></h2></summary>
-
-Om het nakijken zo makkelijk mogelijk te maken, heb ik het portfolio in de structuur van het Scoring rubrics document geschreven, echter is dit document niet chronologisch consistent, dus in sommige onderdelen waar ik over vertel, komt de context pas in een later onderdeel tevoorschijn.
-
-</details>
+<br>
 
 <details>
     <summary><h4><b>Knock-out criteria</b></h2></summary>

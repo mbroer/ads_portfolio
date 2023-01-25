@@ -7,7 +7,6 @@
 
 Om het nakijken zo makkelijk mogelijk te maken, heb ik het portfolio in de structuur van het Scoring rubrics document geschreven, echter is dit document niet chronologisch consistent, dus in sommige onderdelen waar ik over vertel, komt de context pas in een later onderdeel tevoorschijn.
 
-	
 </details>
 
 <details>

@@ -11,9 +11,15 @@ Cofano is een bedrijf dat zich richt op het verbeteren van terminalprocessen. Di
 
 <h3>3.2 Literature research</h3>
 
-%%%
-
 <h4>3.2.1 Foodboost</h4>
+Voor het Foodboost project heb ik research naar stringmatching gedaan, de papers waar ik de meeste informatie heb opgedaan zijn:<br>
+
+Sri, Mukku & Bhavsar, Rachita & Narooka, Preeti. (2018). String Matching Algorithms. International Journal Of Engineering And Computer Science. 7. 23769-23772. 10.18535/ijecs/v7i3.19. <br>
+Uit dit paper ben ik begonnen met het proberen om ingredieënten en tags te groeperen met (E)RKA
+
+en voor Fuzzy heb ik het volgende paper gelezen:
+Senapati, Apurbalal & Mondal, Arunendu & Maji, Soumen. (2022). A Fuzzy String Matching-Based Reduplication with Morphological Attributes. 10.1007/978-981-19-1520-8_14. 
+(Hiervoor moet je contact opnemen met de schrijvers)
 
 <h4>3.2.2 Cofano</h4>
 Omdat wij later begonnen dan andere groepen met het container project, hadden we wat pointers gekregen om sneller op gang te komen. Tijdens een meeting kregen we ook het advies om ons te verdiepen in reinforcement learning.<br>

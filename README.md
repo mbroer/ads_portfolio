@@ -5,7 +5,7 @@ Michael Broer, 20105533
 <details>
     <summary><h3>Knock-out criteria</h3></summary>
 	
-|No.|Task|Voldaan|
+|Num.|Criteria|Voldaan|
 |---|---|---|
 |1.|The contents of your personal portfolio reflect your contribution to the project, your abilities and what you have learned.|:heavy_check_mark:|
 |2.|Your portfolio consists of materials that you either realized individually, or in case of a group effort, a clear statement of what your contribution is in this group effort.|:heavy_check_mark:|

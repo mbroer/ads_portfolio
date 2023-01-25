@@ -104,7 +104,6 @@ Mijn persoonlijke eindproduct voor dit product, namelijk de quiz applicatie, kan
 	
 <h4>1.2.2 Foodboost user-gen</h4>
 De foodboost user-gen applicatie kan worden verbeterd door een GUI in de applicatie te bouwen. Nu is het nog een command line applicatie. Ook kan het groepeer gedeelte voor de ingredieënten verbeterd worden door te onderzoeken of FuzzyWuzzy hier wel de beste oplossing voor is, en of de simularity score wel optimaal is.
-	
     
 <h4>1.2.3 Containers app</h4>
 De visuele container applicatie kan op meerdere manieren worden verbeterd.
@@ -193,15 +192,22 @@ Hieronder staan alle scrum tickets op mijn naam die ik heb afgerond. Bij de mees
 <h2><b>2. Predictive Analytics</b></h2>
 <details>
     <summary><h3>2.1 Selecting a Model</h3></summary>
-In dit hoofdstuk beschrijf ik een aantal modellen die ik gedurende de minor heb gebruikt.
+In dit hoofdstuk beschrijf ik een aantal modellen die gedurende de minor zijn gebruikt.
 	
 	<h4>2.1.1 Foodboost</h4>
 	Voor het Foodboost project hebben we gebruik gemaakt van de volgende modellen:
-* MatrixFactorization, voor het recommender systeem
-* kmeans clustering
+* MatrixFactorization, voor het recommender systeem.
+	Hiervoor is gekozen omdat het vaak gebruikt wordt voor het maken van recommender systemen. Dit komt omdat het effectief grote en schaarse data kan verwerken. Door de users en recepten in het product te decompenseren als user-item, kan de matrix de onderliggende patronen en relaties vastleggen. Dit kan leiden tot betere generalisatie en betere voorspellingen, zelfs als deze geen interactiegeschiedenis hebben.<br>
+Over het algemeen is MatrixFactorization een krachtige techniek die een recommendersysteem en aanbevelingen van hoge kwaliteit kan produceren.
+	
+* SVM, om te proberen om de ingrediënten en tags te groeperen via categorie.
+* Logistic regression, ook om te proberen om ingrediënten en tags te groeperen
+
+	
 	
 	
 	<h4>2.1.2 Cofano</h4>
+	* Reinforcement learning model
 	
     
 </details>
@@ -217,7 +223,16 @@ In dit hoofdstuk beschrijf ik een aantal modellen die ik gedurende de minor heb 
 
 <details>
     <summary><h3>2.4 Evaluating a Model</h3></summary>
+	
+	<h4>2.4.1 FoodBoost</h4>
+	Voor het foodboost project zijn de volgende evaluatie technieken toegepast:
+	
+	* Leave One Out
+	* K-Nearestneighbor clustering
+	
+	
 	%%%cofano, hoe ik met mijn visualisatie app het model evalueer.
+	
 	
     
 </details>

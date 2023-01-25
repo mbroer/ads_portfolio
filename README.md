@@ -365,6 +365,9 @@ Hier moest ik nog meer onderzoek naar doen om dit goed werkend te krijgen maar w
 <h2><b>5. Communication</b></h2> <!-- skippen? -->
 <details>
     <summary><h3>5.1 Presentations</h3></summary>
+
+Qua presentaties heb ik niet kunnen bijdragen wat ik had willen doen. Ik heb in totaal maar 2 interne presentaties gepresenteerd, en had een derde voorbereid die niet door is gegaan. Dit komt vooral omdat ik elke maandag ochtend een afspraak heb met mijn fysiotherapeut. Wel heb ik gelukkig kunnen helpen met het maken van slides voor presentaties voor andere. Dit kwam vaak neer op screenshots van de applicaties die ik had gebouwd voor de visualisatie van onderandere het container project.
+	
     
 </details>
 
@@ -378,6 +381,7 @@ Mijn bijdrage aan het paper samengevat:
 - 3 alineas van de discussie geschreven.
 - De hoofdstukken Onderzoeksopzet, Dataverzameling, Verzamelde data, Visualisatie resultaten, Analyse compleet herschreven om het consistent te maken.- 
 - Verwoorden van alinea's van andere, weghalen van persoonlijke voornaamwoorden (ik, we) etc.
+- Mo's complete conclusie en discussie van zijn deel van het paper herschreven
 - Spelling, grammatica en opmerkingen verbeteren.
 - Opmerkingen met pointers hoe iemand zijn stuk zou kunnen verbeteren.
 - Aanbevelen van cruciale toevoegingen, zoals tijd die het model nodig heeft om te voorspellen, het tonen van de cutoff van het model wanneer die het optimum heeft bereikt.

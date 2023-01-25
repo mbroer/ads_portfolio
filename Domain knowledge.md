@@ -3,7 +3,7 @@
 Voor de eerste periode heb ik mij vooral bezig gehouden met de Datacamp courses. Dit komt omdat ik zelf nog niet eerder, serieus bezig ben geweest met datascience. Deze minor was dus ook een enorme uitdaging. Ook ben ik bij de meeste courses geweest, en indien ik niet fysiek aanwezig kon zijn, heb ik altijd de powerpoints bestudeerd.
 Naast datacamp heb ik gedurende de minor veel literatuuronderzoek gedaan, in een poging om beter mijn groepje te kunnen helpen. De meeste groepsleden doen de opleiding hogere wiskunde, dus voor hen ging het wat sneller.
 
-h4>3.1.1 Foodboost</h3>
+<h4>3.1.1 Foodboost</h3>
 Voor het Foodboost project waren we als groep vrij om te kiezen wat we wilde bereiken, er was geen vast doel. Wij hadden besloten als groep om te kijken of wij een applicatie konden maken die een gebruiker een gevarieerd weekmenu kon aanbieden met recepten die hij/zij lekker zou vinden. Met restricties in gedachte zoals allergieën.
 
 <h4>3.1.2 Cofano</h3>

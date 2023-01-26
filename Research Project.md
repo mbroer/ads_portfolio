@@ -25,12 +25,17 @@ Tijdens het Container project heeft onze projectgroep zich bezig gehouden met on
     
 De deelvragen voor het containers project waren:
 1. Welke methode is hiervoor het beste?
-2. Kunnen we dit schaalbaar maken?
-3. Hoe kunnen we de opstelling van het model evalueren?
-4. Hoe gaan we de uitkomst visualiseren?
+ Wij hebben uiteindelijk een PPO model gebruikt om de indelingen te genereren, zoals ik in een ander hoofdstuk vertel, was PPO een stuk sneller dan het A2C model (te zien aan de fps van de iteraties), en gaf het ook betere resultaten.
 	
+2. Kunnen we dit schaalbaar maken?
+Het is gelukt om de grid van 2x2 naar 3x3 naar 3x3x3 te krijgen. Verder is er getest met een 5x5x8 grid, dat ook functioneel was. Dus het antwoord hierop is ja, echter is het maken van een groter grid wel een stuk langzamer.
+
+3. Hoe kunnen we de opstelling van het model evalueren?
+Dit is gedaan met reward/penalties. Op het einde deden we een handmatige evaluatie om te kijken of containers niet op de verkeerde plekken stonden, dus of er geen containers in elkaar stonden, deze niet zweefde etc. 
+
+4. Hoe gaan we de uitkomst visualiseren?
 Mijn persoonlijke eindproduct was het realiseren van een applicatie die visueel het resultaat van het model kon laten zien.
-Deze applicatie heb ik zelfstandig gemaakt.
+Deze applicatie heb ik zelfstandig gemaakt. Hier wordt in een later hoofdstuk grondig over uitgelegd.
     
 De sourcecode van de applicatie is hier terug te vinden:
 [GitHub](https://github.com/mbroer/ads_portfolio/tree/main/apps/cofano)

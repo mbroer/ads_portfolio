@@ -19,11 +19,22 @@ Screenshot resultaat:
     
 <h3>4.2 Data cleansing</h3>
 
-4.2.1 FoodBoost simulated users
+<h4>4.2.1 FoodBoost simulated users</h4>
 
 Ik ben begonnen met het opschonen van de bestaande dataframes, te zien in [ads_cleaner.py](https://github.com/mbroer/ads_portfolio/blob/main/apps/foodboost/simulated%20users/ads_cleaner.py).  Ik heb onnodige kolommen gedropt, zoals stars, url en image. Hierna heb ik dezelfde logica gebruikt als in het vorige hoofdstuk om deze dataframes op elkaar te joinen. Ook heb ik ervoor gezorgd dat kolommen die meerdere keren voorkwamen te droppen.<br>
 Outliers heb ik handmatig verwijderd, dit waren bijvoorbeeld recepten waarvan ingrediënten niet klopte, denk hierbij aan een ingrediënt met de string: "ham en kaas" (2 ingredienten in 1 ingredient). Values met HTML heb ik vervangen door lege string values. Zelfde geldt voor speciale tekens zoals '(, ), {, }, [, ], +, & ' etc.
 
+<h4>4.2.2 FoodBoost ingredieënten groeperen</h4>
+Om zoveel mogelijk onnodige data te verwijderen om de beste resultaten te krijgen heb ik voor de ingredieënten het volgende gedaan:
+* String manipulation:
+  - Woorden zoals 'grote', 'middengrote', 'kleine' zijn eruitgehaald. 
+  - Spaties eruitgehaald, rede is dat sommige packages 1 woord eruit haalde en die een 100% match gaven terwijl het woord ervoor of erna de context van het ingredieënt kompleet veranderde.
+  - HTML verwijderd.
+  - Leestekens verwijderd.
+* Duplicate ingredients verwijderd.
+* Dataset naar het Engels vertaald.
+  - Omdat sommige ingrediënten foutief werden samen gevoegd, bijvoorbeeld 'spruitjes' en 'uitjes', was het mijn idee om de dataset naar het Engels te vertalen en de functie nog een keer eroverheen te laten lopen, alleen de woorden die dan in het engels en nederlands overeenkwamen zouden dan worden gegroepeerd.
+ 
 <h3>4.3 Data preparation</h3>
 Zoals in 4.2.1 vermeld, heb ik outliers van de dataframes handmatig verwijderd, onnodige kolommen gedropt, dupes te verwijderen etc.
 
@@ -71,8 +82,10 @@ Ik heb hier geprobeerd een groepeer script voor te maken die automatisch ingredi
  De Eerste poging was om simularity score te geven aan hoe erg een string op een andere lijkt. Hiervoor gebruiktte ik de package FuzzyWuzzy. Deze package kan kijken hoeveel een string op een andere string lijkt op basis van stopwords verkleinwoorden etc.
  <br>
  Mijn aanpak was om de lijst van ingredienten te sorteren van klein naar groot (aantal letters). Dat deed ik zodat ik maar 1x door de lijst moest loopen. De eerste groeping method was om te kijken of een woord in een ander wordt zit, dus in dit geval zou 'tomaat' de eerste key zijn, en de checkworden de andere 7000 ingredienten.
- zodra er een match plaats vindt wordt de andere key bijvoorbeeld 'tomaatstukjes' worden weggehaald. Ook haalde ik bij alle ingredienten de verkleinwoorden eruit zoals 'tje', 'en' etc. Hiermee kon ik over 7000 ingredienten loopen in een paar seconde, en halveerde ik de lijst van ingredienten in groepen. 
+ zodra er een match plaats vindt wordt de andere key bijvoorbeeld 'tomaatstukjes' worden weggehaald. Ook haalde ik bij alle ingredienten de verkleinwoorden eruit zoals 'tje', 'en' etc.
+ Hiermee kon ik over 7000 ingredienten loopen in een paar seconde, en halveerde ik de lijst van ingredienten in groepen. 
   
+Ingredieënten gegroepeerd op bloem:
 [Notebook](https://github.com/mbroer/ads_portfolio/blob/main/notebooks/foodboost/groups.ipynb)
   
 Ik vond halvering wel oké, maar vond dat het nog beter kon.

@@ -82,7 +82,13 @@ Met behulp van string matching algoritmes en logistic regression konde we meer d
 De conclusies voor het container project waren:
 
 <b>1. Welke methode is hiervoor het beste?</b><br>
-Wij hebben uiteindelijk een PPO model gebruikt om de indelingen te genereren, zoals ik in een ander hoofdstuk vertel, was PPO een stuk sneller dan het A2C model (te zien aan de fps van de iteraties), en gaf het ook betere resultaten.
+Wij hebben uiteindelijk een PPO model gebruikt om de indelingen te genereren, zoals ik in een ander hoofdstuk vertel, was PPO een stuk sneller dan het A2C model (te zien aan de fps van de iteraties), en gaf het ook betere resultaten.<br>
+<b>Het PPO model kon in 350k timesteps en 334 seconde de optimale opstelling van een 3x3x3 grid genereren</b>
+
+![image](https://user-images.githubusercontent.com/83411588/214798355-47ef6c6b-e143-41fb-8c2a-d14ef923c497.png)
+<br>loss:<br>
+![image](https://user-images.githubusercontent.com/83411588/214798423-24be5320-3dbb-4c69-a187-3ad0e8fac3e2.png)
+
 
 <b>2. Kunnen we dit schaalbaar maken?</b><br>
 Het is gelukt om de grid van 2x2 naar 3x3 naar 3x3x3 te krijgen. Verder is er getest met een 5x5x8 grid, dat ook functioneel was. Dus het antwoord hierop is ja, echter is het maken van een groter grid wel een stuk langzamer.

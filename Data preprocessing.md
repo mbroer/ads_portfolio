@@ -151,14 +151,14 @@ Hij pakt de huidige dag, en vanaf daar zet het alle gerechten voor die week in e
   
 ![menu](https://github.com/mbroer/ads_portfolio/blob/main/output/foodboost/overzicht.png)
     
-<h4>4.5.4 Foodboost confusion matrix</h4>
+<h4>4.5.3 Foodboost confusion matrix</h4>
 
 Een visualisatie van de confusion matrix voor het voorspellen van favoriete recepten:<br>
 
 [Notebook](https://github.com/mbroer/ads_portfolio/blob/main/output/foodboost/usergen.ipynb)
  
     
-<h4>4.5.5 Containers app</h4>
+<h4>4.5.4 Containers app</h4>
     <h4>Beschrijving</h4>
   Bij de start van het container project kwam onze groep er snel achter dat het zeer lastig was om een goed beeld te krijgen van wat er nou precies gebeurde, we hadden   een matrix van een grid van containers voorbeeld:<br>
     

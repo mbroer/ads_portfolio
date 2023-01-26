@@ -3,7 +3,7 @@
 
 <h3>5.1 Presentations</h3>
 
-Qua presentaties heb ik niet kunnen bijdragen wat ik had willen doen. Ik heb in totaal maar 2 interne presentaties gepresenteerd, en had een derde voorbereid die niet door is gegaan. Dit komt vooral omdat ik elke maandag ochtend een afspraak heb met mijn fysiotherapeut. Wel heb ik gelukkig kunnen helpen met het maken van slides voor presentaties voor andere. Dit kwam vaak neer op screenshots van de applicaties die ik had gebouwd voor de visualisatie van onderandere het container project.
+Ik heb in totaal maar 2 interne presentaties gepresenteerd, en had een derde voorbereid die niet door is gegaan. Dit komt vooral omdat ik elke maandag ochtend een afspraak heb met mijn fysiotherapeut. Wel heb ik gelukkig kunnen helpen met het maken van slides voor presentaties voor andere. Dit kwam vaak neer op screenshots van de applicaties die ik had gebouwd voor de visualisatie van onderandere het container project.
 
 Hieronder zijn een paar powerpoints die ik heb gepresenteerd of waar ik bij geholpen heb:<br>
 [Foodboost usergen](https://github.com/mbroer/ads_portfolio/blob/main/powerpoints/FOODBOOST%2019-09-2022%20intern%20pres.pptx)<br>

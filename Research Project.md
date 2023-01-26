@@ -91,7 +91,7 @@ Wij hebben uiteindelijk een PPO model gebruikt om de indelingen te genereren, zo
 
 
 <b>2. Kunnen we dit schaalbaar maken?</b><br>
-Het is gelukt om de grid van 2x2 naar 3x3 naar 3x3x3 te krijgen. Verder is er getest met een 5x5x8 grid, dat ook functioneel was. Dus het antwoord hierop is ja, echter is het maken van een groter grid wel een stuk langzamer.
+Het is gelukt om de grid van 2x2 naar 3x3 naar 3x3x3 te gaan. Verder is er getest met een 5x5x8 grid, dat ook functioneel was. Dus het antwoord hierop is ja, echter is het maken van een groter grid wel een stuk langzamer.
 
 <b>3. Hoe kunnen we de opstelling van het model evalueren?</b><br>
 Dit is gedaan met reward/penalties. Op het einde deden we een handmatige evaluatie om te kijken of containers niet op de verkeerde plekken stonden, dus of er geen containers in elkaar stonden, deze niet zweefde etc. 

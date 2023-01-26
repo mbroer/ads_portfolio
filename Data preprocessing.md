@@ -115,10 +115,18 @@ Een voorbeeld van de data die het PPO model genereerd voor het indelen van de co
 
 ![image](https://user-images.githubusercontent.com/83411588/214776663-104e37ca-ec91-47ac-b28d-e0a661c14d88.png)
 
-
+De nummers 1, 2 en 3 tonen een container aan en bij welk schip deze hoort.
+De 0 in deze matrix staat voor een lege plek.
+De eerste array, [3,3,3,0,0] staat voor één stapel aan containers, dus 3 containers op elkaar, met 2 lege plekken erboven.
+Deze stapel staat op de x=0, y=0 cooridinaten. De volgende array, [3, 3, 3, 3, 3] staat voor de volgende rij, dus x=0 en y=1.
+In 2e matrix, 1e array, [1, 1, 1, 1, 1] staat voor de volgende kolom x=1.
 
 
 <h4>4.5 Data visualization (exploratory)</h4>
+In het voorbeeld van 4.4 wordt de matrix gevisualiseerd als:
+
+![image](https://user-images.githubusercontent.com/83411588/214777781-dd012a4d-0945-416c-9219-4561b34b0f1c.png)
+
     
 
 ## [&#8592; Terug naar index](https://github.com/mbroer/ads_portfolio/blob/main/README.md)

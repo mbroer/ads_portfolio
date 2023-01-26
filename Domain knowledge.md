@@ -37,6 +37,6 @@ Ook voor het aanmaken van de gym environments, (voor het trainen van de agents) 
 Ik heb hiermee de self driving tutorial gevolgd en gerealiseerd.
 
 <h3>3.3 Explanation of Terminology, jargon and definitions</h3>
-Dit kan ik niet in een los hoofdstuk plaatsen, ik heb in meerdere hoofdstukken in dit portfolio uitgelegd wat ik met bepaalde onderdelen bedoel, een voorbeeld hiervan is hierboven. Ik heb uitgelegd wat RL inhoudt, en wat reward/penalty systeem is etc.
+Dit kan ik niet in een los hoofdstuk plaatsen, ik heb in meerdere hoofdstukken in dit portfolio uitgelegd wat ik met bepaalde onderdelen bedoel, een voorbeeld hiervan is hierboven. Ik heb uitgelegd wat RL inhoudt, en wat reward/penalty systeem doet in andere hoofdstukken etc.
     
 ## [&#8592; Terug naar index](https://github.com/mbroer/ads_portfolio/blob/main/README.md)

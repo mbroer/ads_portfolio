@@ -12,8 +12,10 @@ Hieronder zijn een paar powerpoints die ik heb gepresenteerd of waar ik bij geho
 [Cofano app demo](https://github.com/mbroer/ads_portfolio/blob/main/powerpoints/cofano8.pptx)<br>
     
 <h3>5.2 Writing paper</h3>
-    
-Omdat ik tijdens het container project vooral bezig ben geweest met het maken van een visualisatie app heb ik niet veel nieuwe dingen kunnen toevoegen aan het paper, om mezelf wel nuttig te maken voor de groep was mijn taak vooral om andere te helpen met hun onderdelen. Ik heb gezorgd voor ondersteuning door mate van screenshots van de visuele applicatie om onderdelen zoals "onze regels voor het inboxen van containers" te kunnen laten zien in afbeeldingen.<br> Ik heb ongeveer 1 derde / de helft van de paper opnieuw geschreven met ander taalgebruik zodat dat door het hele document consistent was. Dingen die niet helder waren of waar ik het niet zeker over was, plaatste ik comments bij voor andere om mee in discussie te gaan.
+   
+Elk groepslid heeft voor het paper individuele onderdelen op zijn naam gekregen.
+Mijn taak was het maken van de visualisaties, en het uitleggen van de visualisaties.<br>
+Ik heb gezorgd voor ondersteuning door mate van screenshots van de visuele applicatie om onderdelen zoals "onze regels voor het inboxen van containers" duidelijk te kunnen laten zien in afbeeldingen.<br> Ik heb ongeveer 1 derde / de helft van de paper opnieuw geschreven met ander taalgebruik zodat dat door het hele document consistent was. Dingen die niet helder waren of waar ik het niet zeker over was, plaatste ik comments bij voor andere om mee in discussie te gaan.
 Mijn bijdrage aan het paper samengevat:
     
 - Alle onderdelen die over visualisatie gingen

@@ -25,20 +25,16 @@ Ik ben begonnen met het opschonen van de bestaande dataframes, te zien in [ads_c
 Outliers heb ik handmatig verwijderd, dit waren bijvoorbeeld recepten waarvan ingrediënten niet klopte, denk hierbij aan een ingrediënt met de string: "ham en kaas" (2 ingredienten in 1 ingredient). Values met HTML heb ik vervangen door lege string values. Zelfde geldt voor speciale tekens zoals '(, ), {, }, [, ], +, & ' etc.
 
 <h3>4.3 Data preparation</h3>
-4.3.1 FoodBoost simulated users
 Zoals in 4.2.1 vermeld, heb ik outliers van de dataframes handmatig verwijderd, onnodige kolommen gedropt, dupes te verwijderen etc.
 
-<h4>4.3.2 FoodBoost simulated users</h4>
+<h4>4.3.1 FoodBoost simulated users</h4>
 
   <b>Beschrijving</b><br>
   Ons doel voor het FoodBoost project was om te kijken of een persoon een recept wel of niet lekker zou vinden, om hiervoor een model te maken hadden we dus bestaande informatie nodig om het model te kunnen trainen en testen, een oplossing die ik had bedacht was om een applicatie te schrijven die gebruikers op een semi realistische manier favoriete recepten kan genereren.
   
 [Applicatie source code](https://github.com/mbroer/ads_portfolio/tree/main/apps/foodboost/simulated%20users)
   
-  
 Hierna heb ik utility functies geschreven om makkelijk informatie uit die dataframes te kunnen halen. Denk hierbij het omzetten van een dataframe row in een object, of een functie om alle informatie van een recept op te halen via een ID. Ook een zoek algoritme om makkelijk informatie op te kunnen halen
-
-  %%%plaatjes ofzo
   
   <details>
     <summary><i>Code, bestanden, resultaten</i></summary>
@@ -52,7 +48,7 @@ Output gegenereerde gebruiker<br>
     
   </details>
 
-<h4>4.3.3 FoodBoost CSV naar Json</h4>
+<h4>4.3.2 FoodBoost CSV naar Json</h4>
   <b>Beschrijving</b><br>
   Voor het FoodBoost project moest ik voor mijn applicatie een csv bestand omzetten naar json, dit was gelukkig vrij simpel en kon met een file reader simpel mijn csv omzetten zodat ik een json bestand in kon laden en dan via het ID van het recept, de beschrijving van dat recept kon ophalen.
   
@@ -64,7 +60,7 @@ Output gegenereerde gebruiker<br>
     
   </details>
   
-  <h4>4.3.4 FoodBoost Ingredient Groeperen</h4>
+<h4>4.3.3 FoodBoost Ingredient Groeperen</h4>
   <b>Beschrijving</b><br>
   Tijdens het foodboost project kwamen we erachter dat het model veel moeite had om voorspellingen te maken, een gebruiker die veel recepten met tomaat lekker vond, zou een lage score geven aan een recept waar ook tomaat in zit, maar dan met een andere naam. Een voorbeeld hiervan is een user met favoriete recepten zoals: tomatensalade, tomatensoep, plakken tomaat en komkommer, en dan een voorspelling op bijvoorbeeld het gerecht gesneden tomaat. Hier gaf het model aan dat de gebruiker gesneden tomaat niet lekker zou vinden. Na discussie gingen wij ervan uit als projectgroep dat het model de correlatie tussen tomaten en tomaat niet kon vinden.
 

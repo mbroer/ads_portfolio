@@ -25,21 +25,10 @@ Tijdens het Container project heeft onze projectgroep zich bezig gehouden met on
     
 De deelvragen voor het containers project waren:
 1. Welke methode is hiervoor het beste?
- Wij hebben uiteindelijk een PPO model gebruikt om de indelingen te genereren, zoals ik in een ander hoofdstuk vertel, was PPO een stuk sneller dan het A2C model (te zien aan de fps van de iteraties), en gaf het ook betere resultaten.
-	
 2. Kunnen we dit schaalbaar maken?
-Het is gelukt om de grid van 2x2 naar 3x3 naar 3x3x3 te krijgen. Verder is er getest met een 5x5x8 grid, dat ook functioneel was. Dus het antwoord hierop is ja, echter is het maken van een groter grid wel een stuk langzamer.
-
 3. Hoe kunnen we de opstelling van het model evalueren?
-Dit is gedaan met reward/penalties. Op het einde deden we een handmatige evaluatie om te kijken of containers niet op de verkeerde plekken stonden, dus of er geen containers in elkaar stonden, deze niet zweefde etc. 
-
 4. Hoe gaan we de uitkomst visualiseren?
-Mijn persoonlijke eindproduct was het realiseren van een applicatie die visueel het resultaat van het model kon laten zien.
-Deze applicatie heb ik zelfstandig gemaakt. Hier wordt in een later hoofdstuk grondig over uitgelegd.
-    
-De sourcecode van de applicatie is hier terug te vinden:
-[GitHub](https://github.com/mbroer/ads_portfolio/tree/main/apps/cofano)
-        
+
 <h3>1.2 Evaluation</h3>
     
 <h4>1.2.1 Foodboost app</h4>
@@ -93,10 +82,20 @@ Met behulp van string matching algoritmes en logistic regression konde we meer d
 De conclusies voor het container project waren:
 
 <b>1. Welke methode is hiervoor het beste?</b><br>
+Wij hebben uiteindelijk een PPO model gebruikt om de indelingen te genereren, zoals ik in een ander hoofdstuk vertel, was PPO een stuk sneller dan het A2C model (te zien aan de fps van de iteraties), en gaf het ook betere resultaten.
+
 <b>2. Kunnen we dit schaalbaar maken?</b><br>
+Het is gelukt om de grid van 2x2 naar 3x3 naar 3x3x3 te krijgen. Verder is er getest met een 5x5x8 grid, dat ook functioneel was. Dus het antwoord hierop is ja, echter is het maken van een groter grid wel een stuk langzamer.
+
 <b>3. Hoe kunnen we de opstelling van het model evalueren?</b><br>
+Dit is gedaan met reward/penalties. Op het einde deden we een handmatige evaluatie om te kijken of containers niet op de verkeerde plekken stonden, dus of er geen containers in elkaar stonden, deze niet zweefde etc. 
+
 <b>4. Hoe gaan we de uitkomst visualiseren?</b><br>
+Mijn persoonlijke eindproduct was het realiseren van een applicatie die visueel het resultaat van het model kon laten zien.
+Deze applicatie heb ik zelfstandig gemaakt. Hier wordt in een later hoofdstuk grondig over uitgelegd.
     
+De sourcecode van de applicatie is hier terug te vinden:
+[GitHub](https://github.com/mbroer/ads_portfolio/tree/main/apps/cofano)
 
 <h3>1.4 Planning</h3>
 Ik heb gedurende de projecten gebruik gemaakt van de scrumtool Trello, Ik heb geprobeerd iedereen in de projectgroep aan te moedigen om ook van deze tool gebruik te maken, maar dit is alleen gedurende het eerste project gedaan. Ik ben wel gebruik blijven maken van het scrumboard gedurende het tweede project.<br>
@@ -130,5 +129,4 @@ Hieronder staan alle scrum tickets op mijn naam die ik heb afgerond. Bij de mees
   Ik had een leuke stageplek gevonden die mij zeer goed financieel wilden compenseren, hiervoor moest ik een applicatie maken om mijn kennis te laten zien voordat ze me de stageplek konden geven. Hiervoor had ik een week de tijd en heb dus (met begrip van de groep) deze week niet aan het project gewerkt om 100% van mijn tijd in deze applicatie te kunnen steken. (En ja ik heb de stageplek gekregen.)
   
 </details> 
-.
 ## [&#8592; Terug naar index](https://github.com/mbroer/ads_portfolio/blob/main/README.md)

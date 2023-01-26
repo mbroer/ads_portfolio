@@ -86,7 +86,7 @@ Wij hebben uiteindelijk een PPO model gebruikt om de indelingen te genereren, zo
 <b>Het PPO model kon in 350k timesteps en 334 seconde de optimale opstelling van een 3x3x3 grid genereren</b>
 
 ![image](https://user-images.githubusercontent.com/83411588/214798355-47ef6c6b-e143-41fb-8c2a-d14ef923c497.png)
-<br>loss:<br>
+<br>De loss van het model:<br>
 ![image](https://user-images.githubusercontent.com/83411588/214798423-24be5320-3dbb-4c69-a187-3ad0e8fac3e2.png)
 
 

@@ -83,7 +83,7 @@ De conclusies voor het container project waren:
 
 <b>1. Welke methode is hiervoor het beste?</b><br>
 Wij hebben uiteindelijk een PPO model gebruikt om de indelingen te genereren, zoals ik in een ander hoofdstuk vertel, was PPO een stuk sneller dan het A2C model (te zien aan de fps van de iteraties), en gaf het ook betere resultaten.<br>
-<b>Het PPO model kon in 350k timesteps en 334 seconde de optimale opstelling van een 3x3x3 grid genereren</b>
+<b>Het PPO model kon in 350k timesteps en 334 seconde de optimale opstelling van een 3x3x3 grid genereren, zodat de stacker bij alle containers van elk schip kon komen, zonder dat hiervoor containers verplaatst moesten worden.</b>
 
 ![image](https://user-images.githubusercontent.com/83411588/214798355-47ef6c6b-e143-41fb-8c2a-d14ef923c497.png)
 <br>De loss van het model:<br>

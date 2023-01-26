@@ -26,14 +26,15 @@ Outliers heb ik handmatig verwijderd, dit waren bijvoorbeeld recepten waarvan in
 
 <h4>4.2.2 FoodBoost ingredieënten groeperen</h4>
 Om zoveel mogelijk onnodige data te verwijderen om de beste resultaten te krijgen heb ik voor de ingredieënten het volgende gedaan:
+
 * String manipulation:
-  - Woorden zoals 'grote', 'middengrote', 'kleine' zijn eruitgehaald. 
-  - Spaties eruitgehaald, rede is dat sommige packages 1 woord eruit haalde en die een 100% match gaven terwijl het woord ervoor of erna de context van het ingredieënt kompleet veranderde.
-  - HTML verwijderd.
-  - Leestekens verwijderd.
+    - Woorden zoals 'grote', 'middengrote', 'kleine' zijn eruitgehaald. 
+    - Spaties eruitgehaald, rede is dat sommige packages 1 woord eruit haalde en die een 100% match gaven terwijl het woord ervoor of erna de context van het ingredieënt kompleet veranderde.
+    - HTML verwijderd.
+    - Leestekens verwijderd.
 * Duplicate ingredients verwijderd.
 * Dataset naar het Engels vertaald.
-  - Omdat sommige ingrediënten foutief werden samen gevoegd, bijvoorbeeld 'spruitjes' en 'uitjes', was het mijn idee om de dataset naar het Engels te vertalen en de functie nog een keer eroverheen te laten lopen, alleen de woorden die dan in het engels en nederlands overeenkwamen zouden dan worden gegroepeerd.
+    - Omdat sommige ingrediënten foutief werden samen gevoegd, bijvoorbeeld 'spruitjes' en 'uitjes', was het mijn idee om de dataset naar het Engels te vertalen en de functie nog een keer eroverheen te laten lopen, alleen de woorden die dan in het engels en nederlands overeenkwamen zouden dan worden gegroepeerd.
  
 <h3>4.3 Data preparation</h3>
 Zoals in 4.2.1 vermeld, heb ik outliers van de dataframes handmatig verwijderd, onnodige kolommen gedropt, dupes te verwijderen etc.

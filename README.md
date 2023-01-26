@@ -53,7 +53,7 @@ Student has been working on at least three of the following subjects:
 |---|---|
 |Research project|:heavy_multiplication_x:|
 |Predictive analysis|:heavy_multiplication_x:|
-|Domain knowledge|:heavy_multiplication_x:|
+|Domain knowledge|:heavy_check_mark:|
 |Data preprocessing|:heavy_check_mark:|
 |Communication|:heavy_check_mark:|
 	

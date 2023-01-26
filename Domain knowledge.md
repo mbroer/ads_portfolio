@@ -32,6 +32,10 @@ Een aantal papers waar ik mij in heb verdiept voor reinforcement learning:<br>
 
 Beide papers gaan over containerproblemen, sommige van deze informatie was niet relevant voor ons probleem, maar dit spoorde ons wel aan om te gaan werken met een reward/penalty systeem. Rewards voor bijvoorbeeld het plaatsen van een container op een container van dezelfde kleur, en een penalty voor het inboxen van een container.
 
+Ook voor het aanmaken van de gym environments, (voor het trainen van de agents) is er onderzoek gedaan hoe dit nou precies inelkaar zit. Daarvoor is de volgende video door de groep bekeken:
+[YouTube](https://www.youtube.com/watch?v=Mut_u40Sqz4)<br>
+Ik heb hiermee de self driving tutorial gevolgd en gerealiseerd.
+
 <h3>3.3 Explanation of Terminology, jargon and definitions</h3>
 Dit kan ik niet in een los hoofdstuk plaatsen, ik heb in meerdere hoofdstukken in dit portfolio uitgelegd wat ik met bepaalde onderdelen bedoel, een voorbeeld hiervan is hierboven. Ik heb uitgelegd wat RL inhoudt, en wat reward/penalty systeem is etc.
     

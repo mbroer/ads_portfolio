@@ -61,7 +61,7 @@ Student has been working on at least three of the following subjects:
 </details>
 
 ## [1. Research Project](https://github.com/mbroer/ads_portfolio/blob/main/Research%20Project.md)
-## ~~ [2. Predictive Analytics](https://github.com/mbroer/ads_portfolio/blob/main/Predictive%20Analytics.md)~~
+## [~~2. Predictive Analytics~~](https://github.com/mbroer/ads_portfolio/blob/main/Predictive%20Analytics.md)
 ## [3. Domain Knowledge](https://github.com/mbroer/ads_portfolio/blob/main/Domain%20knowledge.md)
 ## [4. Data Preprocessing](https://github.com/mbroer/ads_portfolio/blob/main/Data%20preprocessing.md)
 ## [5. Communication](https://github.com/mbroer/ads_portfolio/blob/main/Communication.md)

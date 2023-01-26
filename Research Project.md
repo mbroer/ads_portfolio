@@ -88,7 +88,7 @@ Wij hebben uiteindelijk een PPO model gebruikt om de indelingen te genereren, zo
 ![image](https://user-images.githubusercontent.com/83411588/214798355-47ef6c6b-e143-41fb-8c2a-d14ef923c497.png)
 <br>De loss van het model:<br>
 ![image](https://user-images.githubusercontent.com/83411588/214798423-24be5320-3dbb-4c69-a187-3ad0e8fac3e2.png)
-
+De loss is een maatstaf voor hoe goed het model presteert bij het benaderen van de ware functie, het is ook een manier om de voortgang van het model tijdens het trainingsproces te volgen. Een lagere loss betekent dat het model de ware functie beter benadert en ongeziene gegevens goed generaliseert.
 
 <b>2. Kunnen we dit schaalbaar maken?</b><br>
 Het is gelukt om de grid van 2x2 naar 3x3 naar 3x3x3 te gaan. Verder is er getest met een 5x5x8 grid, dat ook functioneel was. Dus het antwoord hierop is ja, echter is het maken van een groter grid wel een stuk langzamer.

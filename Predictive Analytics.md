@@ -1,4 +1,4 @@
-<h1>Dit gedeelte heb ik deels overgeslagen, dit wil ik dus niet beoordeeld hebben</h1>
+<h1 align="center">!! Dit gedeelte heb ik deels overgeslagen, dit wil ik dus niet beoordeeld hebben !!</h1>
 
 <h2><b>2. Predictive Analytics</b></h2>
 

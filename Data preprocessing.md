@@ -111,6 +111,17 @@ Hier moest ik nog meer onderzoek naar doen om dit goed werkend te krijgen maar w
 </details>
 
 <h4>4.4 Data explanation</h4>
+
+<h5>4.4.1 Foodboost</h5>
+
+Een voorbeeld van gecreërde data van mijn user-generation programma:
+![image](https://user-images.githubusercontent.com/83411588/214786219-620b4feb-91e1-4c71-ba89-e51fc1337c4c.png)
+
+De dataset is van één gebruiker, met alle recepten als rijen. De door de gebruiker 10 gekozen favoriete recepten staan bovenaan, vandaar de perfecte scores van 1.
+Voor dit voorbeeld heb ik een lage score gehanteerd van .3, je kan dus zien bij index 16, dat de tags en ingriedient scores best overeenkomen met wat er in de favoriete gerechten van de gebruiker zit, vandaar dat deze dan ook als favoriet wordt aangeduid. de mean score is de mean van tag en ingr score, deze moet hoger of gelijk zijn aan de input score om een favoriet recept te worden.
+
+<h5>4.4.2 Containers</h5>
+
 Een voorbeeld van de data die het PPO model genereerd voor het indelen van de containers:
 
 ![image](https://user-images.githubusercontent.com/83411588/214776663-104e37ca-ec91-47ac-b28d-e0a661c14d88.png)
@@ -120,6 +131,9 @@ De 0 in deze matrix staat voor een lege plek.
 De eerste array, [3,3,3,0,0] staat voor één stapel aan containers, dus 3 containers op elkaar, met 2 lege plekken erboven.
 Deze stapel staat op de x=0, y=0 cooridinaten. De volgende array, [3, 3, 3, 3, 3] staat voor de volgende rij, dus x=0 en y=1.
 In 2e matrix, 1e array, [1, 1, 1, 1, 1] staat voor de volgende kolom x=1.
+
+
+
 
 
 <h4>4.5 Data visualization (exploratory)</h4>

@@ -62,15 +62,7 @@ Output gegenereerde gebruiker<br>
 
 <h4>4.3.2 FoodBoost CSV naar Json</h4>
   <b>Beschrijving</b><br>
-  Voor het FoodBoost project moest ik voor mijn applicatie een csv bestand omzetten naar json, dit was gelukkig vrij simpel en kon met een file reader simpel mijn csv omzetten zodat ik een json bestand in kon laden en dan via het ID van het recept, de beschrijving van dat recept kon ophalen.
-  
-  <details>
-    <summary><i>Code, bestanden, resultaten</i></summary>
-    
-    %%%link naar notebook
-    %%%img resultaat
-    
-  </details>
+  Voor het FoodBoost project moest ik voor mijn applicatie een csv bestand omzetten naar json, dit was gelukkig vrij simpel en kon met een file reader simpel mijn csv omzetten zodat ik een json bestand in kon laden en dan via het ID van het recept, de beschrijving van dat recept kon ophalen. Ik heb dit gedaan met de json en csv packages, omdat pandas niet wilde werken. Hiervoor heb ik een simpele DictReader gebruikt en vervolgens json.dumps([row for row in reader]) gebruikt
   
 <h4>4.3.3 FoodBoost Ingredient Groeperen</h4>
   <b>Beschrijving</b><br>

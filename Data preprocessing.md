@@ -112,6 +112,7 @@ Hier moest ik nog meer onderzoek naar doen om dit goed werkend te krijgen maar w
 
 <h4>4.4 Data explanation</h4>
 Een voorbeeld van de data die het PPO model genereerd voor het indelen van de containers:
+
 ![image](https://user-images.githubusercontent.com/83411588/214776663-104e37ca-ec91-47ac-b28d-e0a661c14d88.png)
 
 
